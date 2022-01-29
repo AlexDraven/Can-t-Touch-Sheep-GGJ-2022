@@ -9,8 +9,8 @@ public class IHUD : MonoBehaviour
     public float night, sheepMax, foodMax;
     public float dayTick, sheepTick, foodTick;
 
-    public GameObject advertenciaSheep;
-    public GameObject advertenciaFood;
+    //public GameObject advertenciaSheep;
+    //public GameObject advertenciaFood;
 
     //public Slider dayUI;
     public Image dayUI;
@@ -20,8 +20,8 @@ public class IHUD : MonoBehaviour
     private void Start()
     {
         //dayUI.value = day;
-        advertenciaSheep.SetActive(false);
-        advertenciaFood.SetActive(false);
+        //advertenciaSheep.SetActive(false);
+        //advertenciaFood.SetActive(false);
 
         dayUI.fillAmount = day / night;
         sheepUI.fillAmount = sheep / sheepMax;
@@ -51,14 +51,14 @@ public class IHUD : MonoBehaviour
             foodUI.fillAmount = food / foodMax;
 
         ColorChanger();
-        SetAlert();
+        //SetAlert();
     }
 
-    public void SetAlert()
+    /*public void SetAlert()
     {
         if (sheep >= 60) advertenciaSheep.SetActive(true);
         if (food >= 60) advertenciaFood.SetActive(true);
-    }
+    }*/
 
     public void ColorChanger()
     {
