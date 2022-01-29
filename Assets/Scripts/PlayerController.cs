@@ -30,6 +30,16 @@ public class PlayerController : MonoBehaviour
 
         //movimiento del personaje
         transform.position += moveDirection * Time.deltaTime * speed;
+
+        //ver el movimiento de la cara del personaje
+
+        //cuando presiona barra espaciadora, que hacer?
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            //accion
+            //Debug.Log("Presiono?");
+        }
+
     }
 
     void ReadInput()
