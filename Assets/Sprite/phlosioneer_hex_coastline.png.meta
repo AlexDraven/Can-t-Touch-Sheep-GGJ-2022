@@ -1,0 +1,7680 @@
+fileFormatVersion: 2
+guid: 183a7901e47f01244917241210d636d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5162145161477998218
+    second: phlosioneer_hex_coastline_0
+  - first:
+      213: -7772369591558481448
+    second: phlosioneer_hex_coastline_1
+  - first:
+      213: 7744652295409265220
+    second: phlosioneer_hex_coastline_2
+  - first:
+      213: 1231637492945017195
+    second: phlosioneer_hex_coastline_3
+  - first:
+      213: -4859370874247838490
+    second: phlosioneer_hex_coastline_4
+  - first:
+      213: -4878487358993930007
+    second: phlosioneer_hex_coastline_5
+  - first:
+      213: 7110041568869139832
+    second: phlosioneer_hex_coastline_6
+  - first:
+      213: 19676715278116719
+    second: phlosioneer_hex_coastline_7
+  - first:
+      213: 8554814980021080260
+    second: phlosioneer_hex_coastline_8
+  - first:
+      213: 5140569947774079856
+    second: phlosioneer_hex_coastline_9
+  - first:
+      213: 5876799062151404896
+    second: phlosioneer_hex_coastline_10
+  - first:
+      213: -5850968906795414700
+    second: phlosioneer_hex_coastline_11
+  - first:
+      213: 2008848190868420992
+    second: phlosioneer_hex_coastline_12
+  - first:
+      213: -161558973731093072
+    second: phlosioneer_hex_coastline_13
+  - first:
+      213: 6246787038950676762
+    second: phlosioneer_hex_coastline_14
+  - first:
+      213: -6240998890507295936
+    second: phlosioneer_hex_coastline_15
+  - first:
+      213: 5417962196115143298
+    second: phlosioneer_hex_coastline_16
+  - first:
+      213: 6325846233754355081
+    second: phlosioneer_hex_coastline_17
+  - first:
+      213: -695345706040299448
+    second: phlosioneer_hex_coastline_18
+  - first:
+      213: -5398460545355606927
+    second: phlosioneer_hex_coastline_19
+  - first:
+      213: -1634330208640342026
+    second: phlosioneer_hex_coastline_20
+  - first:
+      213: 4013628170891214827
+    second: phlosioneer_hex_coastline_21
+  - first:
+      213: -2987472314270852498
+    second: phlosioneer_hex_coastline_22
+  - first:
+      213: -8742339339636463004
+    second: phlosioneer_hex_coastline_23
+  - first:
+      213: -7315550873170272062
+    second: phlosioneer_hex_coastline_24
+  - first:
+      213: 7128388070065929718
+    second: phlosioneer_hex_coastline_25
+  - first:
+      213: 4095992627761004173
+    second: phlosioneer_hex_coastline_26
+  - first:
+      213: 835369068807031055
+    second: phlosioneer_hex_coastline_27
+  - first:
+      213: 5207923607781363064
+    second: phlosioneer_hex_coastline_28
+  - first:
+      213: -6469325502197494792
+    second: phlosioneer_hex_coastline_29
+  - first:
+      213: 3844464202055669001
+    second: phlosioneer_hex_coastline_30
+  - first:
+      213: -3401018750579893771
+    second: phlosioneer_hex_coastline_31
+  - first:
+      213: -4750364208000305871
+    second: phlosioneer_hex_coastline_32
+  - first:
+      213: -5724555364617670926
+    second: phlosioneer_hex_coastline_33
+  - first:
+      213: 4992173578014144388
+    second: phlosioneer_hex_coastline_34
+  - first:
+      213: 5569997280073626019
+    second: phlosioneer_hex_coastline_35
+  - first:
+      213: 6726670833890562716
+    second: phlosioneer_hex_coastline_36
+  - first:
+      213: 4206625142323230613
+    second: phlosioneer_hex_coastline_37
+  - first:
+      213: -509343358299181711
+    second: phlosioneer_hex_coastline_38
+  - first:
+      213: 5531184023058837828
+    second: phlosioneer_hex_coastline_39
+  - first:
+      213: 1799905889621990895
+    second: phlosioneer_hex_coastline_40
+  - first:
+      213: 9130366216404179690
+    second: phlosioneer_hex_coastline_41
+  - first:
+      213: 1349992252054643961
+    second: phlosioneer_hex_coastline_42
+  - first:
+      213: 8581496535778410265
+    second: phlosioneer_hex_coastline_43
+  - first:
+      213: 7394859047626385460
+    second: phlosioneer_hex_coastline_44
+  - first:
+      213: -5938833261937882319
+    second: phlosioneer_hex_coastline_45
+  - first:
+      213: 1556635318697243008
+    second: phlosioneer_hex_coastline_46
+  - first:
+      213: 8123735211553451151
+    second: phlosioneer_hex_coastline_47
+  - first:
+      213: 191561497125410987
+    second: phlosioneer_hex_coastline_48
+  - first:
+      213: -5275016500145143571
+    second: phlosioneer_hex_coastline_49
+  - first:
+      213: -2238631621814056581
+    second: phlosioneer_hex_coastline_50
+  - first:
+      213: 8132629871226496955
+    second: phlosioneer_hex_coastline_51
+  - first:
+      213: 7719391929430961588
+    second: phlosioneer_hex_coastline_52
+  - first:
+      213: 4232979172456257265
+    second: phlosioneer_hex_coastline_53
+  - first:
+      213: 8927444922869429342
+    second: phlosioneer_hex_coastline_54
+  - first:
+      213: 6744663040978097094
+    second: phlosioneer_hex_coastline_55
+  - first:
+      213: 2359015077439550265
+    second: phlosioneer_hex_coastline_56
+  - first:
+      213: 3659643688871625911
+    second: phlosioneer_hex_coastline_57
+  - first:
+      213: 5320585036714409686
+    second: phlosioneer_hex_coastline_58
+  - first:
+      213: -7145346683265677632
+    second: phlosioneer_hex_coastline_59
+  - first:
+      213: -9037205820507072329
+    second: phlosioneer_hex_coastline_60
+  - first:
+      213: 3995878113284538192
+    second: phlosioneer_hex_coastline_61
+  - first:
+      213: -625427066745340524
+    second: phlosioneer_hex_coastline_62
+  - first:
+      213: -2708862727706825644
+    second: phlosioneer_hex_coastline_63
+  - first:
+      213: 5758164371667960713
+    second: phlosioneer_hex_coastline_64
+  - first:
+      213: 1202443615772725555
+    second: phlosioneer_hex_coastline_65
+  - first:
+      213: -6595699491368468373
+    second: phlosioneer_hex_coastline_66
+  - first:
+      213: -3979446247128807029
+    second: phlosioneer_hex_coastline_67
+  - first:
+      213: 5648425016658885233
+    second: phlosioneer_hex_coastline_68
+  - first:
+      213: 2565353497284912180
+    second: phlosioneer_hex_coastline_69
+  - first:
+      213: -4026045743815860525
+    second: phlosioneer_hex_coastline_70
+  - first:
+      213: -2331833410108969552
+    second: phlosioneer_hex_coastline_71
+  - first:
+      213: -6750894794043661708
+    second: phlosioneer_hex_coastline_72
+  - first:
+      213: 1342575998140030622
+    second: phlosioneer_hex_coastline_73
+  - first:
+      213: -6807814645938061978
+    second: phlosioneer_hex_coastline_74
+  - first:
+      213: 864590415470341297
+    second: phlosioneer_hex_coastline_75
+  - first:
+      213: 2716036905969923241
+    second: phlosioneer_hex_coastline_76
+  - first:
+      213: -1017075937599113819
+    second: phlosioneer_hex_coastline_77
+  - first:
+      213: 1911328057343189719
+    second: phlosioneer_hex_coastline_78
+  - first:
+      213: 170598725158887110
+    second: phlosioneer_hex_coastline_79
+  - first:
+      213: 9107396678450890309
+    second: phlosioneer_hex_coastline_80
+  - first:
+      213: -4256845461264504338
+    second: phlosioneer_hex_coastline_81
+  - first:
+      213: -9157096905903380784
+    second: phlosioneer_hex_coastline_82
+  - first:
+      213: 8855515032775796909
+    second: phlosioneer_hex_coastline_83
+  - first:
+      213: 2238024660484822481
+    second: phlosioneer_hex_coastline_84
+  - first:
+      213: 6424454172257457924
+    second: phlosioneer_hex_coastline_85
+  - first:
+      213: -7738675230418467591
+    second: phlosioneer_hex_coastline_86
+  - first:
+      213: 2810605809712063173
+    second: phlosioneer_hex_coastline_87
+  - first:
+      213: -8903816604134438040
+    second: phlosioneer_hex_coastline_88
+  - first:
+      213: 1485260174711276284
+    second: phlosioneer_hex_coastline_89
+  - first:
+      213: -7211690008466595423
+    second: phlosioneer_hex_coastline_90
+  - first:
+      213: -7597161538143226287
+    second: phlosioneer_hex_coastline_91
+  - first:
+      213: -871809994473659959
+    second: phlosioneer_hex_coastline_92
+  - first:
+      213: 6142993922545059794
+    second: phlosioneer_hex_coastline_93
+  - first:
+      213: 2252794550637399718
+    second: phlosioneer_hex_coastline_94
+  - first:
+      213: 3267683574423619995
+    second: phlosioneer_hex_coastline_95
+  - first:
+      213: 726294931936377663
+    second: phlosioneer_hex_coastline_96
+  - first:
+      213: -8943396484894833104
+    second: phlosioneer_hex_coastline_97
+  - first:
+      213: 9171958383160777680
+    second: phlosioneer_hex_coastline_98
+  - first:
+      213: -8293546532251834009
+    second: phlosioneer_hex_coastline_99
+  - first:
+      213: -7235723793089281220
+    second: phlosioneer_hex_coastline_100
+  - first:
+      213: -4704700985426594509
+    second: phlosioneer_hex_coastline_101
+  - first:
+      213: -2641331080504576563
+    second: phlosioneer_hex_coastline_102
+  - first:
+      213: 7926028074045743959
+    second: phlosioneer_hex_coastline_103
+  - first:
+      213: -7009928768102205306
+    second: phlosioneer_hex_coastline_104
+  - first:
+      213: -2594362511921205028
+    second: phlosioneer_hex_coastline_105
+  - first:
+      213: 3477315417191006979
+    second: phlosioneer_hex_coastline_106
+  - first:
+      213: -7158277249596719299
+    second: phlosioneer_hex_coastline_107
+  - first:
+      213: 2168787344109180008
+    second: phlosioneer_hex_coastline_108
+  - first:
+      213: 8835768825865230595
+    second: phlosioneer_hex_coastline_109
+  - first:
+      213: 4866608758255820224
+    second: phlosioneer_hex_coastline_110
+  - first:
+      213: -769763837070636367
+    second: phlosioneer_hex_coastline_111
+  - first:
+      213: -7496398652475087666
+    second: phlosioneer_hex_coastline_112
+  - first:
+      213: -1126479685032767978
+    second: phlosioneer_hex_coastline_113
+  - first:
+      213: 6751122205658734693
+    second: phlosioneer_hex_coastline_114
+  - first:
+      213: -5625469106129879257
+    second: phlosioneer_hex_coastline_115
+  - first:
+      213: 7682133005737846181
+    second: phlosioneer_hex_coastline_116
+  - first:
+      213: 7069846517730333487
+    second: phlosioneer_hex_coastline_117
+  - first:
+      213: 7445620972785619023
+    second: phlosioneer_hex_coastline_118
+  - first:
+      213: 6741963479422671985
+    second: phlosioneer_hex_coastline_119
+  - first:
+      213: -4060448610074221187
+    second: phlosioneer_hex_coastline_120
+  - first:
+      213: 8497495969069363092
+    second: phlosioneer_hex_coastline_121
+  - first:
+      213: 1730293290698717227
+    second: phlosioneer_hex_coastline_122
+  - first:
+      213: -8725751755326905593
+    second: phlosioneer_hex_coastline_123
+  - first:
+      213: 6711345152262074795
+    second: phlosioneer_hex_coastline_124
+  - first:
+      213: 285168947510531213
+    second: phlosioneer_hex_coastline_125
+  - first:
+      213: -3380540588669094599
+    second: phlosioneer_hex_coastline_126
+  - first:
+      213: -6583684379968457049
+    second: phlosioneer_hex_coastline_127
+  - first:
+      213: 1499187742261253825
+    second: phlosioneer_hex_coastline_128
+  - first:
+      213: -640115323018816040
+    second: phlosioneer_hex_coastline_129
+  - first:
+      213: -969075113454909510
+    second: phlosioneer_hex_coastline_130
+  - first:
+      213: -9016213462513051086
+    second: phlosioneer_hex_coastline_131
+  - first:
+      213: -1098813817816808087
+    second: phlosioneer_hex_coastline_132
+  - first:
+      213: 1925814685428367745
+    second: phlosioneer_hex_coastline_133
+  - first:
+      213: -2685161162624370725
+    second: phlosioneer_hex_coastline_134
+  - first:
+      213: 8792607035098080219
+    second: phlosioneer_hex_coastline_135
+  - first:
+      213: -1363710987599590410
+    second: phlosioneer_hex_coastline_136
+  - first:
+      213: 891543879504117044
+    second: phlosioneer_hex_coastline_137
+  - first:
+      213: -4672422915889458819
+    second: phlosioneer_hex_coastline_138
+  - first:
+      213: -3000181801610886233
+    second: phlosioneer_hex_coastline_139
+  - first:
+      213: -218173306819234033
+    second: phlosioneer_hex_coastline_140
+  - first:
+      213: 7325482711779442244
+    second: phlosioneer_hex_coastline_141
+  - first:
+      213: -3887206918401167249
+    second: phlosioneer_hex_coastline_142
+  - first:
+      213: 625716043676558972
+    second: phlosioneer_hex_coastline_143
+  - first:
+      213: 1145132421357139774
+    second: phlosioneer_hex_coastline_144
+  - first:
+      213: -3502399394553777274
+    second: phlosioneer_hex_coastline_145
+  - first:
+      213: 7978528629939442850
+    second: phlosioneer_hex_coastline_146
+  - first:
+      213: 3053733586286560909
+    second: phlosioneer_hex_coastline_147
+  - first:
+      213: -7617616791469086618
+    second: phlosioneer_hex_coastline_148
+  - first:
+      213: -1093845217993453713
+    second: phlosioneer_hex_coastline_149
+  - first:
+      213: 3224374602925978700
+    second: phlosioneer_hex_coastline_150
+  - first:
+      213: -8321866034939844146
+    second: phlosioneer_hex_coastline_151
+  - first:
+      213: -2953856606619304494
+    second: phlosioneer_hex_coastline_152
+  - first:
+      213: -4838393448169981842
+    second: phlosioneer_hex_coastline_153
+  - first:
+      213: 6891592190214812237
+    second: phlosioneer_hex_coastline_154
+  - first:
+      213: 2454391312599677649
+    second: phlosioneer_hex_coastline_155
+  - first:
+      213: -8558435581524569750
+    second: phlosioneer_hex_coastline_156
+  - first:
+      213: -3527016841312894237
+    second: phlosioneer_hex_coastline_157
+  - first:
+      213: 3781564904588880298
+    second: phlosioneer_hex_coastline_158
+  - first:
+      213: -5071724299300538150
+    second: phlosioneer_hex_coastline_159
+  - first:
+      213: -4679598195474981127
+    second: phlosioneer_hex_coastline_160
+  - first:
+      213: -2869384875287748389
+    second: phlosioneer_hex_coastline_161
+  - first:
+      213: 4897197721189629478
+    second: phlosioneer_hex_coastline_162
+  - first:
+      213: -6339554084244016904
+    second: phlosioneer_hex_coastline_163
+  - first:
+      213: -575986612624207571
+    second: phlosioneer_hex_coastline_164
+  - first:
+      213: 3655985775752984983
+    second: phlosioneer_hex_coastline_165
+  - first:
+      213: -4518910744765971779
+    second: phlosioneer_hex_coastline_166
+  - first:
+      213: -8567247646500037724
+    second: phlosioneer_hex_coastline_167
+  - first:
+      213: 6066494622642100635
+    second: phlosioneer_hex_coastline_168
+  - first:
+      213: 2231099212505426813
+    second: phlosioneer_hex_coastline_169
+  - first:
+      213: -1993314019170306686
+    second: phlosioneer_hex_coastline_170
+  - first:
+      213: -52920291202984969
+    second: phlosioneer_hex_coastline_171
+  - first:
+      213: 5429144120340765216
+    second: phlosioneer_hex_coastline_172
+  - first:
+      213: -3201231874000878766
+    second: phlosioneer_hex_coastline_173
+  - first:
+      213: 8525547423439117370
+    second: phlosioneer_hex_coastline_174
+  - first:
+      213: -2394141896579311930
+    second: phlosioneer_hex_coastline_175
+  - first:
+      213: -1086840458171991528
+    second: phlosioneer_hex_coastline_176
+  - first:
+      213: -945227103630274353
+    second: phlosioneer_hex_coastline_177
+  - first:
+      213: 5181331030846210733
+    second: phlosioneer_hex_coastline_178
+  - first:
+      213: 4260340474200246044
+    second: phlosioneer_hex_coastline_179
+  - first:
+      213: -8158431321265010489
+    second: phlosioneer_hex_coastline_180
+  - first:
+      213: 7578076937180121220
+    second: phlosioneer_hex_coastline_181
+  - first:
+      213: 2402375274978349175
+    second: phlosioneer_hex_coastline_182
+  - first:
+      213: -1916446260855664062
+    second: phlosioneer_hex_coastline_183
+  - first:
+      213: 1578307882993173097
+    second: phlosioneer_hex_coastline_184
+  - first:
+      213: -6925888317136477882
+    second: phlosioneer_hex_coastline_185
+  - first:
+      213: -7256990300968497800
+    second: phlosioneer_hex_coastline_186
+  - first:
+      213: -8962124283294728489
+    second: phlosioneer_hex_coastline_187
+  - first:
+      213: -5685536515735369769
+    second: phlosioneer_hex_coastline_188
+  - first:
+      213: -2228441462955280935
+    second: phlosioneer_hex_coastline_189
+  - first:
+      213: 3261207984303324817
+    second: phlosioneer_hex_coastline_190
+  - first:
+      213: -6521937524449409038
+    second: phlosioneer_hex_coastline_191
+  - first:
+      213: -540896852698469430
+    second: phlosioneer_hex_coastline_192
+  - first:
+      213: -3818608018655798112
+    second: phlosioneer_hex_coastline_193
+  - first:
+      213: -1352461812829169658
+    second: phlosioneer_hex_coastline_194
+  - first:
+      213: -7521510010626794947
+    second: phlosioneer_hex_coastline_195
+  - first:
+      213: -4269608851765457631
+    second: phlosioneer_hex_coastline_196
+  - first:
+      213: -7260509235795136430
+    second: phlosioneer_hex_coastline_197
+  - first:
+      213: 6577921222771021741
+    second: phlosioneer_hex_coastline_198
+  - first:
+      213: -1862420431821979322
+    second: phlosioneer_hex_coastline_199
+  - first:
+      213: 1266855781259918111
+    second: phlosioneer_hex_coastline_200
+  - first:
+      213: -7197918030364054932
+    second: phlosioneer_hex_coastline_201
+  - first:
+      213: -8329266096444983284
+    second: phlosioneer_hex_coastline_202
+  - first:
+      213: -803730889569879445
+    second: phlosioneer_hex_coastline_203
+  - first:
+      213: 5662312815269691431
+    second: phlosioneer_hex_coastline_204
+  - first:
+      213: -2405305308429111416
+    second: phlosioneer_hex_coastline_205
+  - first:
+      213: -2964276964176896036
+    second: phlosioneer_hex_coastline_206
+  - first:
+      213: 2155247856291147739
+    second: phlosioneer_hex_coastline_207
+  - first:
+      213: -1036849098670241630
+    second: phlosioneer_hex_coastline_208
+  - first:
+      213: 7160839760829507228
+    second: phlosioneer_hex_coastline_209
+  - first:
+      213: 7860491433530369454
+    second: phlosioneer_hex_coastline_210
+  - first:
+      213: 8203914983162535795
+    second: phlosioneer_hex_coastline_211
+  - first:
+      213: -4489144968589264012
+    second: phlosioneer_hex_coastline_212
+  - first:
+      213: 4089749231913572857
+    second: phlosioneer_hex_coastline_213
+  - first:
+      213: -8379520786407301928
+    second: phlosioneer_hex_coastline_214
+  - first:
+      213: 742956068670495845
+    second: phlosioneer_hex_coastline_215
+  - first:
+      213: 3393989251752133676
+    second: phlosioneer_hex_coastline_216
+  - first:
+      213: 1204782739199437276
+    second: phlosioneer_hex_coastline_217
+  - first:
+      213: 1563963839273589757
+    second: phlosioneer_hex_coastline_218
+  - first:
+      213: -7909920557454390262
+    second: phlosioneer_hex_coastline_219
+  - first:
+      213: 3217451035446360364
+    second: phlosioneer_hex_coastline_220
+  - first:
+      213: -5913225845346059879
+    second: phlosioneer_hex_coastline_221
+  - first:
+      213: 7209283807946871278
+    second: phlosioneer_hex_coastline_222
+  - first:
+      213: 6441279815649126398
+    second: phlosioneer_hex_coastline_223
+  - first:
+      213: 3856513068121375111
+    second: phlosioneer_hex_coastline_224
+  - first:
+      213: 896394548904280272
+    second: phlosioneer_hex_coastline_225
+  - first:
+      213: 2294608789794243819
+    second: phlosioneer_hex_coastline_226
+  - first:
+      213: 6451976973896332344
+    second: phlosioneer_hex_coastline_227
+  - first:
+      213: 1968491084831726153
+    second: phlosioneer_hex_coastline_228
+  - first:
+      213: 9026021656640075000
+    second: phlosioneer_hex_coastline_229
+  - first:
+      213: -3319193817404416623
+    second: phlosioneer_hex_coastline_230
+  - first:
+      213: 1387272409018451821
+    second: phlosioneer_hex_coastline_231
+  - first:
+      213: 211774013382086806
+    second: phlosioneer_hex_coastline_232
+  - first:
+      213: 2045737576886232373
+    second: phlosioneer_hex_coastline_233
+  - first:
+      213: -1071854509932693542
+    second: phlosioneer_hex_coastline_234
+  - first:
+      213: -2659402949380823162
+    second: phlosioneer_hex_coastline_235
+  - first:
+      213: -4476523083400620524
+    second: phlosioneer_hex_coastline_236
+  - first:
+      213: 7703892234846455936
+    second: phlosioneer_hex_coastline_237
+  - first:
+      213: 6414241276365605863
+    second: phlosioneer_hex_coastline_238
+  - first:
+      213: 2916592499877902083
+    second: phlosioneer_hex_coastline_239
+  - first:
+      213: 9021661421023263054
+    second: phlosioneer_hex_coastline_240
+  - first:
+      213: -2754962800095416796
+    second: phlosioneer_hex_coastline_241
+  - first:
+      213: 151934418611081083
+    second: phlosioneer_hex_coastline_242
+  - first:
+      213: -7594198790807409627
+    second: phlosioneer_hex_coastline_243
+  - first:
+      213: -1353176746457981918
+    second: phlosioneer_hex_coastline_244
+  - first:
+      213: -4089212119257777692
+    second: phlosioneer_hex_coastline_245
+  - first:
+      213: -4868433898455255209
+    second: phlosioneer_hex_coastline_246
+  - first:
+      213: 1686422567215886591
+    second: phlosioneer_hex_coastline_247
+  - first:
+      213: 8294298326105262120
+    second: phlosioneer_hex_coastline_248
+  - first:
+      213: 3366477680695498136
+    second: phlosioneer_hex_coastline_249
+  - first:
+      213: 1503143597365611354
+    second: phlosioneer_hex_coastline_250
+  - first:
+      213: -5056306329835972247
+    second: phlosioneer_hex_coastline_251
+  - first:
+      213: 2543721727345674818
+    second: phlosioneer_hex_coastline_252
+  - first:
+      213: 7563120741037093739
+    second: phlosioneer_hex_coastline_253
+  - first:
+      213: -5961219685850229006
+    second: phlosioneer_hex_coastline_254
+  - first:
+      213: 8366495763380911866
+    second: phlosioneer_hex_coastline_255
+  - first:
+      213: -929344576213675318
+    second: phlosioneer_hex_coastline_256
+  - first:
+      213: 3649269271869169319
+    second: phlosioneer_hex_coastline_257
+  - first:
+      213: 4981753129910018213
+    second: phlosioneer_hex_coastline_258
+  - first:
+      213: -2761674316368599102
+    second: phlosioneer_hex_coastline_259
+  - first:
+      213: -7060575274298534508
+    second: phlosioneer_hex_coastline_260
+  - first:
+      213: 6249919820145907425
+    second: phlosioneer_hex_coastline_261
+  - first:
+      213: -8510823188434333253
+    second: phlosioneer_hex_coastline_262
+  - first:
+      213: 5458327556254350835
+    second: phlosioneer_hex_coastline_263
+  - first:
+      213: 5798884899058340430
+    second: phlosioneer_hex_coastline_264
+  - first:
+      213: 5383267980620520364
+    second: phlosioneer_hex_coastline_265
+  - first:
+      213: -4404514928427710829
+    second: phlosioneer_hex_coastline_266
+  - first:
+      213: 5474824576209099137
+    second: phlosioneer_hex_coastline_267
+  - first:
+      213: 1685715947105281292
+    second: phlosioneer_hex_coastline_268
+  - first:
+      213: 2516482339506048337
+    second: phlosioneer_hex_coastline_269
+  - first:
+      213: 8546751997650308559
+    second: phlosioneer_hex_coastline_270
+  - first:
+      213: 3311503321827714392
+    second: phlosioneer_hex_coastline_271
+  - first:
+      213: -6130052608642542945
+    second: phlosioneer_hex_coastline_272
+  - first:
+      213: -3781882030999027389
+    second: phlosioneer_hex_coastline_273
+  - first:
+      213: 2267214962742516347
+    second: phlosioneer_hex_coastline_274
+  - first:
+      213: -1471620101193047641
+    second: phlosioneer_hex_coastline_275
+  - first:
+      213: 465563766265944426
+    second: phlosioneer_hex_coastline_276
+  - first:
+      213: 5302116224500033564
+    second: phlosioneer_hex_coastline_277
+  - first:
+      213: 2510733372119046905
+    second: phlosioneer_hex_coastline_278
+  - first:
+      213: -4192805263090249365
+    second: phlosioneer_hex_coastline_279
+  - first:
+      213: 3143843691909864118
+    second: phlosioneer_hex_coastline_280
+  - first:
+      213: 4154948020439757605
+    second: phlosioneer_hex_coastline_281
+  - first:
+      213: -8426904533050510407
+    second: phlosioneer_hex_coastline_282
+  - first:
+      213: 966247581525334855
+    second: phlosioneer_hex_coastline_283
+  - first:
+      213: 8193620317686723061
+    second: phlosioneer_hex_coastline_284
+  - first:
+      213: -4403027950933905182
+    second: phlosioneer_hex_coastline_285
+  - first:
+      213: -8772758423950534782
+    second: phlosioneer_hex_coastline_286
+  - first:
+      213: 8991735536218721266
+    second: phlosioneer_hex_coastline_287
+  - first:
+      213: 9065558936224479312
+    second: phlosioneer_hex_coastline_288
+  - first:
+      213: -8856842155066417325
+    second: phlosioneer_hex_coastline_289
+  - first:
+      213: -8194229949287648970
+    second: phlosioneer_hex_coastline_290
+  - first:
+      213: 4219515660021705501
+    second: phlosioneer_hex_coastline_291
+  - first:
+      213: -3570308038736367985
+    second: phlosioneer_hex_coastline_292
+  - first:
+      213: 7611244607777265771
+    second: phlosioneer_hex_coastline_293
+  - first:
+      213: 2989447576569390920
+    second: phlosioneer_hex_coastline_294
+  - first:
+      213: -1207813051101282916
+    second: phlosioneer_hex_coastline_295
+  - first:
+      213: 644862664266189513
+    second: phlosioneer_hex_coastline_296
+  - first:
+      213: -6227009368119832559
+    second: phlosioneer_hex_coastline_297
+  - first:
+      213: -3445315651349829512
+    second: phlosioneer_hex_coastline_298
+  - first:
+      213: 3613014411222532241
+    second: phlosioneer_hex_coastline_299
+  - first:
+      213: -3994511081758206193
+    second: phlosioneer_hex_coastline_300
+  - first:
+      213: 4820426068102495016
+    second: phlosioneer_hex_coastline_301
+  - first:
+      213: 3788363592387205839
+    second: phlosioneer_hex_coastline_302
+  - first:
+      213: 1008066266702718296
+    second: phlosioneer_hex_coastline_303
+  - first:
+      213: 4572599376424638227
+    second: phlosioneer_hex_coastline_304
+  - first:
+      213: -4206884807673027820
+    second: phlosioneer_hex_coastline_305
+  - first:
+      213: 1151531169120246861
+    second: phlosioneer_hex_coastline_306
+  - first:
+      213: 4992027265244617936
+    second: phlosioneer_hex_coastline_307
+  - first:
+      213: -1612170914719141335
+    second: phlosioneer_hex_coastline_308
+  - first:
+      213: 3417813475678597383
+    second: phlosioneer_hex_coastline_309
+  - first:
+      213: 4602505546722375071
+    second: phlosioneer_hex_coastline_310
+  - first:
+      213: 5929552632977839471
+    second: phlosioneer_hex_coastline_311
+  - first:
+      213: 1247626212265668240
+    second: phlosioneer_hex_coastline_312
+  - first:
+      213: -8136421169409220768
+    second: phlosioneer_hex_coastline_313
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 622
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c5e49caf93a740800000000000000
+      internalID: 5162145161477998218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 634
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9db18490ff22490800000000000000
+      internalID: -7772369591558481448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 622
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a68c0da388a7b60800000000000000
+      internalID: 7744652295409265220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 671
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695a0b36c7a71110800000000000000
+      internalID: 1231637492945017195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 671
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e404989feb009cb0800000000000000
+      internalID: -4859370874247838490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 671
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8eee528912c4cb0800000000000000
+      internalID: -4878487358993930007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 671
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c4b2e221fba260800000000000000
+      internalID: 7110041568869139832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 671
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67af784ed7e54000800000000000000
+      internalID: 19676715278116719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 671
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d85326eec8b670800000000000000
+      internalID: 8554814980021080260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 669
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0735f10b129f65740800000000000000
+      internalID: 5140569947774079856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_10
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 669
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d12e34c959e8150800000000000000
+      internalID: 5876799062151404896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 669
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8a9e67ce2dcea0800000000000000
+      internalID: -5850968906795414700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_12
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 666
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089f56849ccd0eb10800000000000000
+      internalID: 2008848190868420992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 669
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b54b7828f602cdf0800000000000000
+      internalID: -161558973731093072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 669
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a195b2c07bb01b650800000000000000
+      internalID: 6246787038950676762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 661
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a4b743948369a0800000000000000
+      internalID: -6240998890507295936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 661
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a30f969e7703b40800000000000000
+      internalID: 5417962196115143298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 661
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985cba242abe9c750800000000000000
+      internalID: 6325846233754355081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 661
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ff53b3c2a956f0800000000000000
+      internalID: -695345706040299448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 661
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1741e1c7cb0d415b0800000000000000
+      internalID: -5398460545355606927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 661
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f76d449551b159e0800000000000000
+      internalID: -1634330208640342026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 661
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb87a6e8543b730800000000000000
+      internalID: 4013628170891214827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 661
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a529b22cd5a86d0800000000000000
+      internalID: -2987472314270852498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 661
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aab0380b8fca680800000000000000
+      internalID: -8742339339636463004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 661
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c023648d31f97a90800000000000000
+      internalID: -7315550873170272062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 661
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd79619e2f1de260800000000000000
+      internalID: 7128388070065929718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 661
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e305ce793e7d830800000000000000
+      internalID: 4095992627761004173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 661
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09879afdb3d79b00800000000000000
+      internalID: 835369068807031055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 661
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dcd23bde2464840800000000000000
+      internalID: 5207923607781363064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 661
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb84215bb65836a0800000000000000
+      internalID: -6469325502197494792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_30
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 661
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905db3ba2d74a5530800000000000000
+      internalID: 3844464202055669001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91e3937772dc0d0800000000000000
+      internalID: -3401018750579893771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 655
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135796cdbe0531eb0800000000000000
+      internalID: -4750364208000305871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 652
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe28e2d93b4e80b0800000000000000
+      internalID: -5724555364617670926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_34
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 655
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487bf966b63c74540800000000000000
+      internalID: 4992173578014144388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 655
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13eaed30b9c4d40800000000000000
+      internalID: 5569997280073626019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 655
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c921707eb7fe95d50800000000000000
+      internalID: 6726670833890562716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_37
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 655
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597376f774fe06a30800000000000000
+      internalID: 4206625142323230613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 653
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d6fdb0ae27ee8f0800000000000000
+      internalID: -509343358299181711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 653
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441fcb14096b2cc40800000000000000
+      internalID: 5531184023058837828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_40
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 653
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed5d0ccedc8af810800000000000000
+      internalID: 1799905889621990895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 645
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea9ff5f2b395be70800000000000000
+      internalID: 9130366216404179690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 645
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42f39fcc22cb210800000000000000
+      internalID: 1349992252054643961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 645
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3150f1a9971770800000000000000
+      internalID: 8581496535778410265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 645
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438aad9cf11df9660800000000000000
+      internalID: 7394859047626385460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0be11d96059da0800000000000000
+      internalID: -5938833261937882319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081b6cf23974a9510800000000000000
+      internalID: 1556635318697243008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce9fd222e4db070800000000000000
+      internalID: 8123735211553451151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 645
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85dccaa2098a200800000000000000
+      internalID: 191561497125410987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 645
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0468cf0706bc6b0800000000000000
+      internalID: -5275016500145143571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 645
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7901d69668cee0e0800000000000000
+      internalID: -2238631621814056581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 645
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7af2487c7ecd070800000000000000
+      internalID: 8132629871226496955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 645
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdefbb8f0ac02b60800000000000000
+      internalID: 7719391929430961588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d1eb41209eba30800000000000000
+      internalID: 4232979172456257265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 645
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543f739bd7a4eb70800000000000000
+      internalID: 8927444922869429342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 645
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3943f0d4bd99d50800000000000000
+      internalID: 6744663040978097094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_56
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933339ed6b7ecb020800000000000000
+      internalID: 2359015077439550265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_57
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b481bf9b8aa9c230800000000000000
+      internalID: 3659643688871625911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_58
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6defe96b6e386d940800000000000000
+      internalID: 5320585036714409686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60fea9c01a6dc90800000000000000
+      internalID: -7145346683265677632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_60
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 645
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8559aff25659280800000000000000
+      internalID: -9037205820507072329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 645
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f351419f5347730800000000000000
+      internalID: 3995878113284538192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_62
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 645
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dbabd75690257f0800000000000000
+      internalID: -625427066745340524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_63
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 645
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c2db983bf286ad0800000000000000
+      internalID: -2708862727706825644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 650
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983449becfb19ef40800000000000000
+      internalID: 5758164371667960713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_65
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 653
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d1940910ffa010800000000000000
+      internalID: 1202443615772725555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_66
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 653
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6002c3124e5774a0800000000000000
+      internalID: -6595699491368468373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_67
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 650
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b894025e8ba26c8c0800000000000000
+      internalID: -3979446247128807029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_68
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 639
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af16240ac336e40800000000000000
+      internalID: 5648425016658885233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_69
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 639
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43429f8f967f99320800000000000000
+      internalID: 2565353497284912180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_70
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 639
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ded1661abc9028c0800000000000000
+      internalID: -4026045743815860525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 639
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd211b3ed9a3afd0800000000000000
+      internalID: -2331833410108969552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 639
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4726efcd3f00052a0800000000000000
+      internalID: -6750894794043661708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_73
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 639
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1a1dc1c9c1a210800000000000000
+      internalID: 1342575998140030622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_74
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 636
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66df82c16a8c581a0800000000000000
+      internalID: -6807814645938061978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_75
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 639
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc215ee664affb00800000000000000
+      internalID: 864590415470341297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_76
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 639
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a430310d2d41b520800000000000000
+      internalID: 2716036905969923241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_77
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 639
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5becdc2de92e1f0800000000000000
+      internalID: -1017075937599113819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_78
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 639
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ad23ddb6668a10800000000000000
+      internalID: 1911328057343189719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceda3cf2a61e5200800000000000000
+      internalID: 170598725158887110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_80
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 553
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54643a7a609f36e70800000000000000
+      internalID: 9107396678450890309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 553
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee968915b95ace4c0800000000000000
+      internalID: -4256845461264504338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_82
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 553
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ecc561e47be080800000000000000
+      internalID: -9157096905903380784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_83
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 553
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8abb7f00c15ea70800000000000000
+      internalID: 8855515032775796909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 553
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d513c6329f0f0f10800000000000000
+      internalID: 2238024660484822481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_85
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 617
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4079e2d080f382950800000000000000
+      internalID: 6424454172257457924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_86
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 620
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f40bc211e3ba9490800000000000000
+      internalID: -7738675230418467591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_87
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 620
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2698bb717410720800000000000000
+      internalID: 2810605809712063173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_88
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 620
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b875519f94f6480800000000000000
+      internalID: -8903816604134438040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_89
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 620
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf243b87244bc9410800000000000000
+      internalID: 1485260174711276284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_90
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 620
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16d1f752eeaeb90800000000000000
+      internalID: -7211690008466595423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_91
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 620
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15676b125d5719690800000000000000
+      internalID: -7597161538143226287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_92
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 620
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c123c7dd65b6e3f0800000000000000
+      internalID: -871809994473659959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_93
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 620
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d78ea2fc6c404550800000000000000
+      internalID: 6142993922545059794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_94
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 620
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8dae35b8834f10800000000000000
+      internalID: 2252794550637399718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_95
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 617
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9906e3e5e4295d20800000000000000
+      internalID: 3267683574423619995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_96
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 553
+        width: 5
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bfb3c7461541a00800000000000000
+      internalID: 726294931936377663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_97
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 591
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036cd58f74ca2e380800000000000000
+      internalID: -8943396484894833104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_98
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 591
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd6faed87594f70800000000000000
+      internalID: 9171958383160777680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_99
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e4f8be5767ec80800000000000000
+      internalID: -8293546532251834009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_100
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 591
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334214fb8b859b90800000000000000
+      internalID: -7235723793089281220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335b73d516b85beb0800000000000000
+      internalID: -4704700985426594509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_102
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 591
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5735c606b185bd0800000000000000
+      internalID: -2641331080504576563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_103
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 575
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75325491a88eefd60800000000000000
+      internalID: 7926028074045743959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_104
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 575
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688f974fceab7be90800000000000000
+      internalID: -7009928768102205306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_105
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 575
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b85a7a09fefbd0800000000000000
+      internalID: -2594362511921205028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_106
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 575
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c8a5c2f7e14030800000000000000
+      internalID: 3477315417191006979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff60684c0b8ac90800000000000000
+      internalID: -7158277249596719299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_108
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8649df64994191e10800000000000000
+      internalID: 2168787344109180008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_109
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309da27eee4fe9a70800000000000000
+      internalID: 8835768825865230595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_110
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd94a891eaa98340800000000000000
+      internalID: 4866608758255820224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba867a5edf3155f0800000000000000
+      internalID: -769763837070636367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_112
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46188a42177f790800000000000000
+      internalID: -7496398652475087666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_113
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e8deed1b0fd50f0800000000000000
+      internalID: -1126479685032767978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_114
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606a8780edc0bd50800000000000000
+      internalID: 6751122205658734693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_115
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 484
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb13a27a15ee1b0800000000000000
+      internalID: -5625469106129879257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_116
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 415
+        width: 5
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ee4c544b6c9a60800000000000000
+      internalID: 7682133005737846181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_117
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 513
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2359d143f32d1260800000000000000
+      internalID: 7069846517730333487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_118
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 513
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d51f73d8245760800000000000000
+      internalID: 7445620972785619023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_119
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 513
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c15a76014409d50800000000000000
+      internalID: 6741963479422671985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_120
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 513
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d752cc7908366a7c0800000000000000
+      internalID: -4060448610074221187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_121
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 513
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f61bcef8b2de570800000000000000
+      internalID: 8497495969069363092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_122
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 497
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b655949c330810800000000000000
+      internalID: 1730293290698717227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_123
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 497
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703af717207e7e680800000000000000
+      internalID: -8725751755326905593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_124
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1fe959bdc732d50800000000000000
+      internalID: 6711345152262074795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_125
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 497
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84565995af15f300800000000000000
+      internalID: 285168947510531213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_126
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 415
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b697de38e511d0800000000000000
+      internalID: -3380540588669094599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_127
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 415
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a631b230fd02a4a0800000000000000
+      internalID: -6583684379968457049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_128
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 415
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61a1dfe4f2ec410800000000000000
+      internalID: 1499187742261253825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_129
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 428
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5dd24518add17f0800000000000000
+      internalID: -640115323018816040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_130
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 415
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab749d591572d82f0800000000000000
+      internalID: -969075113454909510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_131
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 415
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a90d330a9ffd280800000000000000
+      internalID: -9016213462513051086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9650dba87aa30c0f0800000000000000
+      internalID: -1098813817816808087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_133
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 346
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814034c04ed9ba10800000000000000
+      internalID: 1925814685428367745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_134
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7791136246cbad0800000000000000
+      internalID: -2685161162624370725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_135
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32f90638d950a70800000000000000
+      internalID: 8792607035098080219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_136
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 359
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb44dff410231de0800000000000000
+      internalID: -1363710987599590410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_137
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 359
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d348f4f666f5c00800000000000000
+      internalID: 891543879504117044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_138
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7193021d18382fb0800000000000000
+      internalID: -4672422915889458819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_139
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3446d0c863d56d0800000000000000
+      internalID: -3000181801610886233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_140
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07319b8884e8fcf0800000000000000
+      internalID: -218173306819234033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_141
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ef0ebd6b759a560800000000000000
+      internalID: 7325482711779442244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_142
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 346
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60f14c27eddd0ac0800000000000000
+      internalID: -3887206918401167249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_143
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 277
+        width: 5
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76aa913d6dfea800800000000000000
+      internalID: 625716043676558972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_144
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 368
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3776cbbed354ef00800000000000000
+      internalID: 1145132421357139774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_145
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 368
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833412ae4af46fc0800000000000000
+      internalID: -3502399394553777274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_146
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 368
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a413d1548d69be60800000000000000
+      internalID: 7978528629939442850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_147
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 368
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864a41748a016a20800000000000000
+      internalID: 3053733586286560909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_148
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 368
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682f6553e9c84690800000000000000
+      internalID: -7617616791469086618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_149
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 352
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8d36d191e1d0f0800000000000000
+      internalID: -1093845217993453713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_150
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b13e2e974fbc20800000000000000
+      internalID: 3224374602925978700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_151
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 352
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a50faeeac28c80800000000000000
+      internalID: -8321866034939844146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_152
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 352
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddf305011bc107d0800000000000000
+      internalID: -2953856606619304494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_153
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 277
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6830463bc29adcb0800000000000000
+      internalID: -4838393448169981842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_154
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 277
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d423c92759ad3af50800000000000000
+      internalID: 6891592190214812237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_155
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 277
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dafe4715efbf0220800000000000000
+      internalID: 2454391312599677649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_156
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 277
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a611a22ee245a3980800000000000000
+      internalID: -8558435581524569750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_157
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 293
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e289b8aed48d0fc0800000000000000
+      internalID: -3527016841312894237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_158
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 293
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9aa11ce31da7430800000000000000
+      internalID: 3781564904588880298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_159
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 277
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad87975fe9d9d99b0800000000000000
+      internalID: -5071724299300538150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_160
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 277
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe972b1c3abe0fb0800000000000000
+      internalID: -4679598195474981127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_161
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 277
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0689898a5ed28d0800000000000000
+      internalID: -2869384875287748389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3c56816756f340800000000000000
+      internalID: 4897197721189629478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_163
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 208
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0324616216508a0800000000000000
+      internalID: -6339554084244016904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_164
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 208
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21572f3a3fa108f0800000000000000
+      internalID: -575986612624207571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_165
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 208
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79933ab51bbacb230800000000000000
+      internalID: 3655985775752984983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_166
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 208
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2478eae9a9941c0800000000000000
+      internalID: -4518910744765971779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_167
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 224
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab509f18a50b1980800000000000000
+      internalID: -8567247646500037724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_168
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 224
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995666b7b4803450800000000000000
+      internalID: 6066494622642100635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_169
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 208
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2a04b9e476fe10800000000000000
+      internalID: 2231099212505426813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_170
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 208
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2853c89e5735654e0800000000000000
+      internalID: -1993314019170306686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_171
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 139
+        width: 5
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f39f69864df34ff0800000000000000
+      internalID: -52920291202984969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_172
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 211
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02adf4700d1385b40800000000000000
+      internalID: 5429144120340765216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_173
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 211
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253058a4290f293d0800000000000000
+      internalID: -3201231874000878766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_174
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 211
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd5d91634d05670800000000000000
+      internalID: 8525547423439117370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_175
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 211
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6928831ac46ced0800000000000000
+      internalID: -2394141896579311930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_176
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 211
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ab2239c54cae0f0800000000000000
+      internalID: -1086840458171991528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_177
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 181
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0db0015f0e1e2f0800000000000000
+      internalID: -945227103630274353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_178
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 155
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da20c45ee19c7e740800000000000000
+      internalID: 5181331030846210733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_179
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 155
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17cceac615cf1b30800000000000000
+      internalID: 4260340474200246044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_180
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 195
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8049340fd67ce80800000000000000
+      internalID: -8158431321265010489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_181
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888331f2dcba2960800000000000000
+      internalID: 7578076937180121220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_182
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 195
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77014429593f65120800000000000000
+      internalID: 2402375274978349175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_183
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 195
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242929e874a6765e0800000000000000
+      internalID: -1916446260855664062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_184
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 167
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c10848a647e510800000000000000
+      internalID: 1578307882993173097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_185
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 163
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6416d0f354d42ef90800000000000000
+      internalID: -6925888317136477882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_186
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 169
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d415c35cdf94b90800000000000000
+      internalID: -7256990300968497800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_187
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb05d927320a380800000000000000
+      internalID: -8962124283294728489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_188
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 139
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c41689aae811b0800000000000000
+      internalID: -5685536515735369769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_189
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 139
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57cc5db4cf211e0800000000000000
+      internalID: -2228441462955280935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_190
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 153
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e31131263224d20800000000000000
+      internalID: 3261207984303324817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_191
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 167
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f707ef406c6d75a0800000000000000
+      internalID: -6521937524449409038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_192
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 159
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe7c2ad295e78f0800000000000000
+      internalID: -540896852698469430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_193
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 139
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac10972d34910bc0800000000000000
+      internalID: -3818608018655798112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608590a95271b3de0800000000000000
+      internalID: -1352461812829169658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_195
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 120
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9b0afe7a3e9790800000000000000
+      internalID: -7521510010626794947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_196
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 120
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d08a4ee5d4fb4c0800000000000000
+      internalID: -4269608851765457631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_197
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 86
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250fcff515d7d3b90800000000000000
+      internalID: -7260509235795136430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_198
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 86
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da715c33088794b50800000000000000
+      internalID: 6577921222771021741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_199
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 70
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64142da1c7a5726e0800000000000000
+      internalID: -1862420431821979322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_200
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 70
+        width: 5
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb5a7fe96c49110800000000000000
+      internalID: 1266855781259918111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_201
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 87
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a65c500bbdb1c90800000000000000
+      internalID: -7197918030364054932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_202
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0831b99d90886c80800000000000000
+      internalID: -8329266096444983284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_203
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 101
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6abd28a30398d4f0800000000000000
+      internalID: -803730889569879445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_204
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 101
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ca495183949e40800000000000000
+      internalID: 5662312815269691431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_205
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa8bad093ae9ed0800000000000000
+      internalID: -2405305308429111416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_206
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 101
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfdc567ec5ccd6d0800000000000000
+      internalID: -2964276964176896036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_207
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 101
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe72d918af8ed10800000000000000
+      internalID: 2155247856291147739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_208
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 85
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8831cfc3f5c91f0800000000000000
+      internalID: -1036849098670241630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_209
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 85
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966cbd92d9606360800000000000000
+      internalID: 7160839760829507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_210
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea52497ef43161d60800000000000000
+      internalID: 7860491433530369454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_211
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 85
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f58e206392ad170800000000000000
+      internalID: 8203914983162535795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_212
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b31028f6a53b1c0800000000000000
+      internalID: -4489144968589264012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_213
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f992ac0245b1c830800000000000000
+      internalID: 4089749231913572857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_214
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 40
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd03acd36f5bb80800000000000000
+      internalID: -8379520786407301928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_215
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c53dcab928f4a00800000000000000
+      internalID: 742956068670495845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_216
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240e2a0e3fd91f20800000000000000
+      internalID: 3393989251752133676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_217
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92181a48f38b010800000000000000
+      internalID: 1204782739199437276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_218
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb557953d054b510800000000000000
+      internalID: 1563963839273589757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_219
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 40
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c0f5b59215a3290800000000000000
+      internalID: -7909920557454390262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_220
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 24
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c293ef18baea6ac20800000000000000
+      internalID: 3217451035446360364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_221
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9993d7b5c6000fda0800000000000000
+      internalID: -5913225845346059879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_222
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee116a94d658c0460800000000000000
+      internalID: 7209283807946871278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_223
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e8ae6dd5046950800000000000000
+      internalID: 6441279815649126398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_224
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c609e336158530800000000000000
+      internalID: 3856513068121375111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_225
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0490ac712a07c00800000000000000
+      internalID: 896394548904280272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_226
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4cc26798618df10800000000000000
+      internalID: 2294608789794243819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_227
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834371cafd60a8950800000000000000
+      internalID: 6451976973896332344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_228
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a1bee463c715b10800000000000000
+      internalID: 1968491084831726153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_229
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b303ffded24d70800000000000000
+      internalID: 9026021656640075000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_230
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ddfe41fcadfe1d0800000000000000
+      internalID: -3319193817404416623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_231
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ce3ae7e4904310800000000000000
+      internalID: 1387272409018451821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6905c48d75f50f200800000000000000
+      internalID: 211774013382086806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_233
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 22
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e8f5cc7be36c10800000000000000
+      internalID: 2045737576886232373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_234
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 22
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bf8c80020021f0800000000000000
+      internalID: -1071854509932693542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_235
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a78f8b17e71bd0800000000000000
+      internalID: -2659402949380823162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_236
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d11929f130e1c0800000000000000
+      internalID: -4476523083400620524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_237
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c9edab29b9ea60800000000000000
+      internalID: 7703892234846455936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_238
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb8b6de476f30950800000000000000
+      internalID: 6414241276365605863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_239
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077ac50d61d97820800000000000000
+      internalID: 2916592499877902083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_240
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ffeb7341633d70800000000000000
+      internalID: 9021661421023263054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_241
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ea5e20ee764c9d0800000000000000
+      internalID: -2754962800095416796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_242
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f087a7c87cb1200800000000000000
+      internalID: 151934418611081083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_243
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c29308f6cfb9690800000000000000
+      internalID: -7594198790807409627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_244
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c9d052bec883de0800000000000000
+      internalID: -1353176746457981918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_245
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9fa6c3e333047c0800000000000000
+      internalID: -4089212119257777692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_246
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ba16d929df6cb0800000000000000
+      internalID: -4868433898455255209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_247
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0fa1cc360676710800000000000000
+      internalID: 1686422567215886591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_248
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 22
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8280f9ce1644b1370800000000000000
+      internalID: 8294298326105262120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_249
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d22e3d9128be20800000000000000
+      internalID: 3366477680695498136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_250
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b4167432d3cd410800000000000000
+      internalID: 1503143597365611354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_251
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695196be2464d9b0800000000000000
+      internalID: -5056306329835972247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_252
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac1ed0f6d1d4320800000000000000
+      internalID: 2543721727345674818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_253
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b7ea2e3a95f860800000000000000
+      internalID: 7563120741037093739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_254
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 22
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6d4d4974e754da0800000000000000
+      internalID: -5961219685850229006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_255
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe3127b193cb1470800000000000000
+      internalID: 8366495763380911866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_256
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac219d4280e4a13f0800000000000000
+      internalID: -929344576213675318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_257
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae928f611fc4a230800000000000000
+      internalID: 3649269271869169319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_258
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a02af2c31eb22540800000000000000
+      internalID: 4981753129910018213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_259
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7a78b57df8ca9d0800000000000000
+      internalID: -2761674316368599102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_260
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959781523cc30e90800000000000000
+      internalID: -7060575274298534508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_261
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6587286fc2cb650800000000000000
+      internalID: 6249919820145907425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_262
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d633076b73e980800000000000000
+      internalID: -8510823188434333253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_263
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd34423effdfbb40800000000000000
+      internalID: 5458327556254350835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_264
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42dfb58717c97050800000000000000
+      internalID: 5798884899058340430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_265
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabde93e4b535ba40800000000000000
+      internalID: 5383267980620520364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_266
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396492b320500e2c0800000000000000
+      internalID: -4404514928427710829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_267
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899588f1fb7afb40800000000000000
+      internalID: 5474824576209099137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_268
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05eb6bf8bdd46710800000000000000
+      internalID: 1685715947105281292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_269
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d4dc9da575ce220800000000000000
+      internalID: 2516482339506048337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_270
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd8e43c8a92c9670800000000000000
+      internalID: 8546751997650308559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_271
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552112e9b2d4fd20800000000000000
+      internalID: 3311503321827714392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_272
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92976f71adadeaa0800000000000000
+      internalID: -6130052608642542945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_273
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341cedf745e048bc0800000000000000
+      internalID: -3781882030999027389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_274
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad7b31ff3c67f10800000000000000
+      internalID: 2267214962742516347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_275
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a16010a051c39be0800000000000000
+      internalID: -1471620101193047641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_276
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69139c57c3067600800000000000000
+      internalID: 465563766265944426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_277
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e8274d96e49940800000000000000
+      internalID: 5302116224500033564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_278
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fadfd213bae7d220800000000000000
+      internalID: 2510733372119046905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_279
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611e11e3d920d5c0800000000000000
+      internalID: -4192805263090249365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_280
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad3a55e2d21ab20800000000000000
+      internalID: 3143843691909864118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_281
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5233682f53759a930800000000000000
+      internalID: 4154948020439757605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_282
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3356f89fe9d0b80800000000000000
+      internalID: -8426904533050510407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_283
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd5e55e0dc86d00800000000000000
+      internalID: 966247581525334855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_284
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f32c644695b170800000000000000
+      internalID: 8193620317686723061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_285
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f778286d45e2c0800000000000000
+      internalID: -4403027950933905182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_286
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287dc1881b6e04680800000000000000
+      internalID: -8772758423950534782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_287
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc29674df09cc70800000000000000
+      internalID: 8991735536218721266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_288
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 6
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058370432d55fcd70800000000000000
+      internalID: 9065558936224479312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_289
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f9f8b4cfc261580800000000000000
+      internalID: -8856842155066417325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_290
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631b7d8a64f384e80800000000000000
+      internalID: -8194229949287648970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_291
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1baac7032bbe8a30800000000000000
+      internalID: 4219515660021705501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_292
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 8
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea56c41c7b37ec0800000000000000
+      internalID: -3570308038736367985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_293
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68db2905a290a960800000000000000
+      internalID: 7611244607777265771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_294
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847221c6bb6ac7920800000000000000
+      internalID: 2989447576569390920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_295
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9df606ed6cfc3fe0800000000000000
+      internalID: -1207813051101282916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_296
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca8f703d2303f800800000000000000
+      internalID: 644862664266189513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_297
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101038c8f73599a0800000000000000
+      internalID: -6227009368119832559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_298
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878233e4ba7cf20d0800000000000000
+      internalID: -3445315651349829512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_299
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 8
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904945e671042230800000000000000
+      internalID: 3613014411222532241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_300
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07d070c555a098c0800000000000000
+      internalID: -3994511081758206193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_301
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b384f18f795e240800000000000000
+      internalID: 4820426068102495016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_302
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca134c9d98f29430800000000000000
+      internalID: 3788363592387205839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_303
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855aed8bdee5dfd00800000000000000
+      internalID: 1008066266702718296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_304
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31796fbf7e2257f30800000000000000
+      internalID: 4572599376424638227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_305
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41369a37e842e95c0800000000000000
+      internalID: -4206884807673027820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_306
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cd33b4f7f0bff00800000000000000
+      internalID: 1151531169120246861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_307
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc58fd495e374540800000000000000
+      internalID: 4992027265244617936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_308
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922f2fe381b60a9e0800000000000000
+      internalID: -1612170914719141335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_309
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701bd5e6f338e6f20800000000000000
+      internalID: 3417813475678597383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_310
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95f62dd8626fdf30800000000000000
+      internalID: 4602505546722375071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_311
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6550ad14b00a4250800000000000000
+      internalID: 5929552632977839471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_312
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eaf8a0e65705110800000000000000
+      internalID: 1247626212265668240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phlosioneer_hex_coastline_313
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 8
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f15661e00a51f80800000000000000
+      internalID: -8136421169409220768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 054fc7bf56f279c4aaf9d1ee55577c0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
