@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
         if (canMove) 
         {
             ReadInput();
-            rb.velocity =  Vector3.Normalize(new Vector3(h, v, 0)) * speed;
+            rb.velocity =  Vector3.Normalize(new Vector3(moveDirection.x, moveDirection.y, 0)) * speed;
         }    
         //movimiento del personaje
         //   transform.position += moveDirection * Time.deltaTime * speed;
