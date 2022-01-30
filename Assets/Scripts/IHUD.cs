@@ -57,7 +57,7 @@ public class IHUD : MonoBehaviour
             food += Time.deltaTime / foodTick;
             foodUI.fillAmount = food / foodMax;
 
-        if (day >= 100 && boolComer == true) SceneManager.LoadScene("Final");
+        if (day >= night && boolComer == true) SceneManager.LoadScene("Final");
 
         ColorChanger();
         //SetAlert();
