@@ -43,7 +43,6 @@ public class PlayerController : MonoBehaviour
             if (currentTarget.gameObject.tag == "Arbol")
             {
                 //Cambiar de escena
-                print("arbol!");
                 Global.Instance.cambiarEscena.ChangeSceneTo("JuegoVerduras");
                 
             }

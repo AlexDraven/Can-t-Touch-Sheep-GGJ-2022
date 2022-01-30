@@ -71,4 +71,10 @@ public class IGameController : MonoBehaviour
         countVida--;
         SetCountVidaText();
     }
+
+    public void BackToGame()
+    {
+        Time.timeScale = 1;
+        Global.Instance.cambiarEscena.ChangeSceneTo("Game");
+    }
 }
