@@ -11,6 +11,8 @@ public class PlayerIsometricController : MonoBehaviour
 
     private GameObject currentTarget = null;
 
+    public Rigidbody2D rigidbody2d;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +21,8 @@ public class PlayerIsometricController : MonoBehaviour
  
         // snap to the current cell
         transform.position = grid.CellToWorld(_targetCell);
+
+        rigidbody2d = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
