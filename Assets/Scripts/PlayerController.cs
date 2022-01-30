@@ -37,8 +37,20 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if (currentTarget == null) return;
+            
 
-            print(currentTarget.name);
+            if (currentTarget.gameObject.tag == "Arbol")
+            {
+                //Cambiar de escena
+                print("arbol!");
+                Global.Instance.cambiarEscena.ChangeSceneTo("JuegoVerduras");
+                
+            }
+            else
+            {
+                print(currentTarget.tag);
+            }
+            
         }
 
     }
@@ -54,14 +66,9 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other) 
     {
-        if (other.gameObject.tag == "Interactable") 
+        if (other.gameObject.tag == "Interactable" || other.gameObject.tag == "Arbol") 
         {
             currentTarget = other.gameObject;
-        }
-
-        if (other.gameObject.tag == "Arbol")
-        {
-            //Cambiar de escena
         }
         
     }

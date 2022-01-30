@@ -155,6 +155,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minigameBeaten: 0
+  playerPosition: {x: 0, y: 0}
+  cambiarEscena: {fileID: 0}
 --- !u!4 &171332580
 Transform:
   m_ObjectHideFlags: 0
@@ -606,7 +608,7 @@ GameObject:
   - component: {fileID: 511781648}
   m_Layer: 0
   m_Name: Arbol
-  m_TagString: Interactable
+  m_TagString: Arbol
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
