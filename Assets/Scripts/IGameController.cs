@@ -47,7 +47,7 @@ public class IGameController : MonoBehaviour
 
     public void SetCountText()
     {
-        TextVerduras.text = ("Manzanas: " + count.ToString() + " / "+ maxVerduras);
+        TextVerduras.text = ("Frutas: " + count.ToString() + " / "+ maxVerduras);
 
         if (count >= maxVerduras)
         {
