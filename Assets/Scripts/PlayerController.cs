@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour
     
     GameObject currentTarget = null;
 
+    bool canMove = true;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -30,12 +32,13 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        ReadInput();
 
         //movimiento del personaje
-        transform.position += moveDirection * Time.deltaTime * speed;
-
-        ReadInput();
+        if (canMove) 
+        {
+            ReadInput();
+            transform.position += moveDirection * Time.deltaTime * speed;
+        }
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -60,14 +63,9 @@ public class PlayerController : MonoBehaviour
                     }
                     break;
                 case "Casa":
-                    if (Global.Instance.soupEaten)
-                    {
-                        Global.Instance.cambiarEscena.ChangeSceneTo("Ganaste");
-                    }
-                    else
-                    {
-                        Global.Instance.cambiarEscena.ChangeSceneTo("Perdiste");
-                    }
+                    currentTarget.GetComponent<AudioSource>().Play();
+                    GameObject.Find("BlackScreen").GetComponent<FadeToBlack>().activate = true;
+                    StartCoroutine(WaitForSong());
                     break;
                 default:
                     print(currentTarget.name);
@@ -114,6 +112,21 @@ public class PlayerController : MonoBehaviour
                 currentTarget = null;
                 break;
         }
+    }
+
+    IEnumerator WaitForSong()
+    {
+        yield return new WaitForSeconds(8);
+
+        if (Global.Instance.soupEaten)
+        {
+            Global.Instance.cambiarEscena.ChangeSceneTo("Ganaste");
+        }
+        else
+        {
+            Global.Instance.cambiarEscena.ChangeSceneTo("Perdiste");
+        }
+
     }
 
 }
