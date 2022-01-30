@@ -18,6 +18,8 @@ public class IGameController : MonoBehaviour
     private int count;
     private int countVida;
 
+    private AudioSource audio;
+
     void Start()
     {
         count = 0; 
@@ -29,12 +31,21 @@ public class IGameController : MonoBehaviour
         exit.SetActive(false);
         continuar.SetActive(false);
         boolVerduras = false;
+        audio = GetComponent<AudioSource>();
     }
 
     public void Punto()
     {
+        audio.Play();
         count++;
         SetCountText();
+    }
+
+    public void Descontar()
+    {
+        audio.Play();
+        countVida--;
+        SetCountVidaText();
     }
 
     public void SetCountText()
@@ -64,12 +75,6 @@ public class IGameController : MonoBehaviour
 
             exit.SetActive(true);
         }
-    }
-
-    public void Descontar()
-    {
-        countVida--;
-        SetCountVidaText();
     }
 
     public void BackToGame()
