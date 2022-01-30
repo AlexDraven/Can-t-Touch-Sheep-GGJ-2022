@@ -29,17 +29,28 @@ public class PlayerIsometricController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            if (currentTarget == null) return;
+
             print(currentTarget.name);
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D other) {
-        currentTarget = other.gameObject;
+    private void OnCollisionEnter2D(Collision2D other) 
+    {
+        if (other.gameObject.tag == "Interactable") 
+        {
+            currentTarget = other.gameObject;
+        }  
+        
     }
 
 
-    private void OnCollisionExit2D(Collision2D other) {
-        currentTarget = null;
+    private void OnCollisionExit2D(Collision2D other) 
+    {
+        if (other.gameObject.tag == "Interactable") 
+        {
+            currentTarget = null;
+        }  
     }
     void ReadInput()
     {
