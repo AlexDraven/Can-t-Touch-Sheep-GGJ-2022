@@ -33,6 +33,7 @@ public class Global : MonoBehaviour
     private const string sceneName_JuegoVerduras = "JuegoVerduras";
 
     public GameObject canvas;
+    public IHUD gameController;
 
     void Awake ()   
     {
@@ -58,6 +59,7 @@ public class Global : MonoBehaviour
     private void Start()
     {
         canvas.SetActive(false);
+       
     }
 
     void Update()
@@ -78,20 +80,52 @@ public class Global : MonoBehaviour
                 case sceneName_Game:
                     canvas.SetActive(true);
                     break;
+                case sceneName_JuegoVerduras:
+                    canvas.SetActive(true);
+                    break;
                 default:
+                    backgroudMusic.pitch = 1;
                     canvas.SetActive(false);
                     break;
             }
         }
+        ReadGameController();
+    }
 
+    private void ReadGameController()
+    {
+        float day = this.gameController.GetComponent<IHUD>().day;
+        float night = this.gameController.GetComponent<IHUD>().night;
+        float toNight = day / night;
+
+        if(toNight > 0.7)
+        {
+            backgroudMusic.pitch = 1 + toNight - 0.5f;
+        }
+ 
     }
 
     private void ChangeBackgroundMusic()
     {
         switch (actualSceneName)
         {
+            case sceneName_Title:
+                backgroudMusic.clip = background_title;
+                break;
             case sceneName_Game:
                 backgroudMusic.clip = background_game;
+                break;
+            case sceneName_Final:
+                backgroudMusic.clip = background_final;
+                break;
+            case sceneName_Ganaste:
+                backgroudMusic.clip = background_ganaste;
+                break;
+            case sceneName_Perdiste:
+                backgroudMusic.clip = background_perdiste;
+                break;
+            case sceneName_JuegoVerduras:
+                backgroudMusic.clip = background_juegoVerduras;
                 break;
             default:
                 backgroudMusic.clip = background_title;

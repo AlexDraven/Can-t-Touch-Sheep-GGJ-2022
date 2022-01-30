@@ -5,7 +5,7 @@ using UnityEngine;
 public class ISpawn : MonoBehaviour
 {
     [SerializeField] GameObject[] verduras;
-    public float respawnTime = 3.0f;
+    public float respawnTime = 1.0f;
     private Vector2 screenBounds;
 
     void Start()
@@ -20,7 +20,7 @@ public class ISpawn : MonoBehaviour
         a.transform.position = new Vector2(Random.Range(-screenBounds.x, screenBounds.x), screenBounds.y);
     }
 
-    IEnumerator asteroidWave()
+    IEnumerator asteroidWave() // ??
     {
         while (true)
         {

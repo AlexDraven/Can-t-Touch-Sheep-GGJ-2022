@@ -6,9 +6,9 @@ using UnityEngine.SceneManagement;
 
 public class IHUD : MonoBehaviour
 {
-    public float day, sheep, food;
-    public float night, sheepMax, foodMax;
-    public float dayTick, sheepTick, foodTick;
+    public float day; //, sheep, food;
+    public float night;//, sheepMax, foodMax;
+    public float dayTick;//, sheepTick, foodTick;
     public string actualSceneName;
 
     bool boolComer;
@@ -17,8 +17,8 @@ public class IHUD : MonoBehaviour
 
     //public Slider dayUI;
     public Image dayUI;
-    public Image sheepUI;
-    public Image foodUI;
+    //public Image sheepUI;
+    //public Image foodUI;
 
     private ChangeScene scene;
 
@@ -37,8 +37,8 @@ public class IHUD : MonoBehaviour
         //advertenciaFood.SetActive(false);
 
         dayUI.fillAmount = day / night;
-        sheepUI.fillAmount = sheep / sheepMax;
-        foodUI.fillAmount = food / foodMax;
+        //sheepUI.fillAmount = sheep / sheepMax;
+        //foodUI.fillAmount = food / foodMax;
 
         boolComer = false;
         scene = FindObjectOfType<ChangeScene>();
@@ -48,7 +48,7 @@ public class IHUD : MonoBehaviour
     {
 
         CheckScene();
-        
+
 
     }
 
@@ -56,56 +56,64 @@ public class IHUD : MonoBehaviour
     {
         Scene currentScene = SceneManager.GetActiveScene();
         string sceneName = currentScene.name;
-        if(actualSceneName != sceneName)
+        if (actualSceneName != sceneName)
         {
             actualSceneName = sceneName;
-            day = 0;
-            dayUI.fillAmount = 0;
+            if(actualSceneName != sceneName_Game && actualSceneName != sceneName_JuegoVerduras)
+            {
+                day = 0;
+                dayUI.fillAmount = 0;
+            }
         }
         switch (sceneName)
         {
             case sceneName_Game:
-                if (night >= day)
-                {
-                    day += Time.deltaTime / dayTick;
-                    dayUI.fillAmount = day / night;
-                    //dayUI.value = day;
-                }
-
-                /*if (day == 50)
-                {
-                    advertencia.SetActive(true);
-                }*/
-
-                //if (sheep <= sheepMax)
-                //    sheep += Time.deltaTime / sheepTick;
-                //sheepUI.fillAmount = sheep / sheepMax;
-
-                //if (food <= foodMax)
-                //    food += Time.deltaTime / foodTick;
-                //foodUI.fillAmount = food / foodMax;
-
-                if (day >= night)
-                {
-                    if (boolComer == true)
-                    {
-
-                        SceneManager.LoadScene(sceneName_Final);
-                    }
-                    else
-                    {
-                        SceneManager.LoadScene(sceneName_Perdiste);
-                    }
-                    
-                }
-
-               // ColorChanger();
-                //SetAlert();
+                DayAndNight();
                 break;
-            case "":
-                // Do something...
+            case sceneName_JuegoVerduras:
+                DayAndNight();
                 break;
         }
+    }
+
+    private void DayAndNight()
+    {
+        if (night >= day)
+        {
+            day += Time.deltaTime / dayTick;
+            dayUI.fillAmount = day / night;
+            //dayUI.value = day;
+        }
+
+        /*if (day == 50)
+        {
+            advertencia.SetActive(true);
+        }*/
+
+        //if (sheep <= sheepMax)
+        //    sheep += Time.deltaTime / sheepTick;
+        //sheepUI.fillAmount = sheep / sheepMax;
+
+        //if (food <= foodMax)
+        //    food += Time.deltaTime / foodTick;
+        //foodUI.fillAmount = food / foodMax;
+
+        if (day >= night)
+        {
+            if (boolComer == true)
+            {
+
+                SceneManager.LoadScene(sceneName_Final);
+            }
+            else
+            {
+                SceneManager.LoadScene(sceneName_Perdiste);
+            }
+
+        }
+
+        // ColorChanger();
+        //SetAlert();
     }
 
     /*public void SetAlert()

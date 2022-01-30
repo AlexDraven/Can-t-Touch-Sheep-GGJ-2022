@@ -268,18 +268,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   day: 0
-  sheep: 0
-  food: 0
-  night: 3
-  sheepMax: 100
-  foodMax: 100
+  night: 30
   dayTick: 1
-  sheepTick: 1
-  foodTick: 1
   actualSceneName: 
   dayUI: {fileID: 2262724196586328031}
-  sheepUI: {fileID: 2262724197038237408}
-  foodUI: {fileID: 2262724197289033388}
 --- !u!1 &2262724196793102030
 GameObject:
   m_ObjectHideFlags: 0
@@ -828,6 +820,7 @@ MonoBehaviour:
   cambiarEscena: {fileID: 0}
   actualSceneName: 
   canvas: {fileID: 2262724198141342045}
+  gameController: {fileID: 2262724196787298096}
 --- !u!82 &2262724197859526080
 AudioSource:
   m_ObjectHideFlags: 0
@@ -840,7 +833,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 58f2febec5a20394c837ac081c391317, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 1
   Mute: 0

@@ -19,7 +19,19 @@ public class IPlayer : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Horizontal = Horizontal * Speed;
-        rb.velocity = new Vector2(Horizontal, rb.velocity.y);
+        if (transform.position.x < -10)
+        {
+            transform.position = new Vector3(-9, transform.position.y, transform.position.z);
+            rb.velocity = new Vector2(0,0);
+        }else if (transform.position.x > 10)
+        {
+            transform.position = new Vector3(9, transform.position.y, transform.position.z);
+            rb.velocity = new Vector2(0, 0);
+        }
+        else
+        {
+            Horizontal = Horizontal * Speed;
+            rb.velocity = new Vector2(Horizontal, rb.velocity.y);
+        }
     }
 }

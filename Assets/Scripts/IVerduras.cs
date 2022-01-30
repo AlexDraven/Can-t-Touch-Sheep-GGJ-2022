@@ -42,7 +42,7 @@ public class IVerduras : MonoBehaviour
         if (other.gameObject.CompareTag("Limite"))
         {
             Destroy(this.gameObject);
-            puntaje.Descontar();
+          //  puntaje.Descontar();
         }
     }
 }
