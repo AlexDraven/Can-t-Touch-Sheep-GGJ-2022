@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Final.unity
     guid: 7e1604929032dd549813e768508e2c94
+  - enabled: 1
+    path: Assets/Scenes/JuegoVerduras.unity
+    guid: 1491e41604b9cdb43be76ce0d4c87f7b
   m_configObjects: {}

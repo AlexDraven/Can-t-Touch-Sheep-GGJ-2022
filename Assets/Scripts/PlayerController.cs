@@ -38,6 +38,7 @@ public class PlayerController : MonoBehaviour
         {
             if (currentTarget == null) return;
             
+            print(currentTarget.tag);
 
             if (currentTarget.gameObject.tag == "Arbol")
             {
@@ -48,7 +49,7 @@ public class PlayerController : MonoBehaviour
             }
             else
             {
-                print(currentTarget.tag);
+                print(currentTarget.name);
             }
             
         }
