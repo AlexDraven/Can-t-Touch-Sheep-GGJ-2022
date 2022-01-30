@@ -9,6 +9,7 @@ TagManager:
   - Interactable
   - Arbol
   - Caldero
+  - Casa
   layers:
   - Default
   - TransparentFX

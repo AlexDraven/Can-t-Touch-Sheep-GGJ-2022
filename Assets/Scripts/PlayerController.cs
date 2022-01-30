@@ -59,6 +59,16 @@ public class PlayerController : MonoBehaviour
                         Global.Instance.soupEaten = true;
                     }
                     break;
+                case "Casa":
+                    if (Global.Instance.soupEaten)
+                    {
+                        Global.Instance.cambiarEscena.ChangeSceneTo("Ganaste");
+                    }
+                    else
+                    {
+                        Global.Instance.cambiarEscena.ChangeSceneTo("Perdiste");
+                    }
+                    break;
                 default:
                     print(currentTarget.name);
                     break;
@@ -85,6 +95,7 @@ public class PlayerController : MonoBehaviour
             case "Arbol":
             case "Interactable":
             case "Caldero":
+            case "Casa":
                 currentTarget = other.gameObject;
                 break;
         }
@@ -94,10 +105,15 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other) 
     {
-        if (other.gameObject.tag == "Interactable" || other.gameObject.tag == "Arbol") 
+        switch (other.gameObject.tag) 
         {
-            currentTarget = null;
-        } 
+            case "Arbol":
+            case "Interactable":
+            case "Caldero":
+            case "Casa":
+                currentTarget = null;
+                break;
+        }
     }
     
 }
