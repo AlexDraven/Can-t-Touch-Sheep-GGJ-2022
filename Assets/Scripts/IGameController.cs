@@ -46,6 +46,8 @@ public class IGameController : MonoBehaviour
             winText.SetActive(true);
             Time.timeScale = 0;
 
+            Global.Instance.minigameBeaten = true;
+
             continuar.SetActive(true);
 
             boolVerduras = true;

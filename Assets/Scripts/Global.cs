@@ -6,6 +6,8 @@ public class Global : MonoBehaviour
 {
     public static Global Instance;
 
+    public bool minigameBeaten = false;
+
     void Awake ()   
        {
         if (Instance == null)
