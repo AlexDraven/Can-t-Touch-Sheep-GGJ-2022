@@ -499,6 +499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minigameBeaten: 0
   soupEaten: 0
+  enteredHouse: 0
   playerPosition: {x: 0, y: 0}
   background_title: {fileID: 0}
   background_final: {fileID: 0}
@@ -506,6 +507,7 @@ MonoBehaviour:
   background_ganaste: {fileID: 0}
   background_perdiste: {fileID: 0}
   background_juegoVerduras: {fileID: 0}
+  jingle_a_dormir: {fileID: 0}
   backgroudMusic: {fileID: 0}
   cambiarEscena: {fileID: 0}
   actualSceneName: 
@@ -873,7 +875,7 @@ RectTransform:
   m_GameObject: {fileID: 1285522134}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.099239, y: 1.099239, z: 1.099239}
   m_Children: []
   m_Father: {fileID: 1535282561}
   m_RootOrder: 0
@@ -903,7 +905,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: bb864dafa72a8e04283d76b533dfe584, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
