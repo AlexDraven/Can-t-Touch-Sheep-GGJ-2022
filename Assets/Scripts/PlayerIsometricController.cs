@@ -9,6 +9,8 @@ public class PlayerIsometricController : MonoBehaviour
     private Vector3Int _targetCell;
     private Vector3 _targetPosition;
 
+    private GameObject currentTarget = null;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,8 +26,21 @@ public class PlayerIsometricController : MonoBehaviour
     {
         ReadInput();
         MoveToward(_targetPosition);
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            print(currentTarget.name);
+        }
     }
 
+    private void OnCollisionEnter2D(Collision2D other) {
+        currentTarget = other.gameObject;
+    }
+
+
+    private void OnCollisionExit2D(Collision2D other) {
+        currentTarget = null;
+    }
     void ReadInput()
     {
         Vector3Int gridMovement = new Vector3Int();
