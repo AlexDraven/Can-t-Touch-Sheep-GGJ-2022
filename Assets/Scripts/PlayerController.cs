@@ -15,7 +15,8 @@ public class PlayerController : MonoBehaviour
     //camera and sight direction 
     [SerializeField] Camera camera;
     Vector2 facingDirection; //hacia donde mira la mira
-    //CameraController camController;
+    
+    GameObject currentTarget = null;
 
     // Start is called before the first frame update
     void Start()
@@ -31,13 +32,13 @@ public class PlayerController : MonoBehaviour
         //movimiento del personaje
         transform.position += moveDirection * Time.deltaTime * speed;
 
-        //ver el movimiento de la cara del personaje
+        ReadInput();
 
-        //cuando presiona barra espaciadora, que hacer?
-        if(Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            //accion
-            //Debug.Log("Presiono?");
+            if (currentTarget == null) return;
+
+            print(currentTarget.name);
         }
 
     }
@@ -50,4 +51,28 @@ public class PlayerController : MonoBehaviour
         moveDirection.x = h;
         moveDirection.y = v;
     }
+
+    private void OnTriggerEnter2D(Collider2D other) 
+    {
+        if (other.gameObject.tag == "Interactable") 
+        {
+            currentTarget = other.gameObject;
+        }
+
+        if (other.gameObject.tag == "Arbol")
+        {
+            //Cambiar de escena
+        }
+        
+    }
+
+
+    private void OnTriggerExit2D(Collider2D other) 
+    {
+        if (other.gameObject.tag == "Interactable" || other.gameObject.tag == "Arbol") 
+        {
+            currentTarget = null;
+        } 
+    }
+    
 }
