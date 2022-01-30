@@ -2117,6 +2117,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 41a0a151d9a18b843be6c46201a8414c, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -2370,6 +2374,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 41a0a151d9a18b843be6c46201a8414c, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -2603,6 +2611,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 41a0a151d9a18b843be6c46201a8414c, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -2717,6 +2729,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 41a0a151d9a18b843be6c46201a8414c, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -49226,6 +49242,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 41a0a151d9a18b843be6c46201a8414c, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 2
