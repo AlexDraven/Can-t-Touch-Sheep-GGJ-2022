@@ -43,16 +43,26 @@ public class PlayerController : MonoBehaviour
             
             print(currentTarget.tag);
 
-            if (currentTarget.gameObject.tag == "Arbol")
+            switch (currentTarget.gameObject.tag)
             {
-                //Cambiar de escena
-                Global.Instance.playerPosition = transform.position;
-                Global.Instance.cambiarEscena.ChangeSceneTo("JuegoVerduras");
+                case "Arbol":
+                    //Cambiar de escena
+                    Global.Instance.playerPosition = transform.position;
+                    Global.Instance.cambiarEscena.ChangeSceneTo("JuegoVerduras");
+                    break;
+                case "Caldero":
+                    if (Global.Instance.minigameBeaten)
+                    {
+                        print("comida");
+                        //Slurp sound
+                        currentTarget.GetComponent<AudioSource>().Play();
+                        Global.Instance.soupEaten = true;
+                    }
+                    break;
+                default:
+                    print(currentTarget.name);
+                    break;
                 
-            }
-            else
-            {
-                print(currentTarget.name);
             }
             
         }
@@ -70,9 +80,13 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other) 
     {
-        if (other.gameObject.tag == "Interactable" || other.gameObject.tag == "Arbol") 
+        switch (other.gameObject.tag) 
         {
-            currentTarget = other.gameObject;
+            case "Arbol":
+            case "Interactable":
+            case "Caldero":
+                currentTarget = other.gameObject;
+                break;
         }
         
     }

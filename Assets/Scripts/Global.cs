@@ -7,6 +7,7 @@ public class Global : MonoBehaviour
     public static Global Instance;
 
     public bool minigameBeaten = false;
+    public bool soupEaten = false;
     public Vector2 playerPosition = Vector2.zero;
 
     public ChangeScene cambiarEscena = null;
