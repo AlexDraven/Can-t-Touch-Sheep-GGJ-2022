@@ -12,9 +12,6 @@ public class IGameController : MonoBehaviour
     public GameObject loseText;
     public GameObject continuar;
     public GameObject exit;
-
-    private bool boolVerduras;
-
     private int count;
     private int countVida;
 
@@ -30,7 +27,6 @@ public class IGameController : MonoBehaviour
         loseText.SetActive(false);
         exit.SetActive(false);
         continuar.SetActive(false);
-        boolVerduras = false;
         audio = GetComponent<AudioSource>();
     }
 
@@ -60,8 +56,6 @@ public class IGameController : MonoBehaviour
             Global.Instance.minigameBeaten = true;
 
             continuar.SetActive(true);
-
-            boolVerduras = true;
         }
     }
     public void SetCountVidaText()
