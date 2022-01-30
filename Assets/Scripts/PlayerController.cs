@@ -20,10 +20,12 @@ public class PlayerController : MonoBehaviour
 
     bool canMove = true;
 
+    public SpriteRenderer sprite;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        sprite = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -35,6 +37,15 @@ public class PlayerController : MonoBehaviour
         {
             ReadInput();
             rb.velocity =  Vector3.Normalize(new Vector3(moveDirection.x, moveDirection.y, 0)) * speed;
+            if (moveDirection.x > 0)
+            {
+                sprite.flipX = true;
+               
+            }
+            if (moveDirection.x < 0)
+            {
+                sprite.flipX = false;
+            }
         } 
         else
         {
