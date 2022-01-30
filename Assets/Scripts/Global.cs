@@ -7,9 +7,13 @@ public class Global : MonoBehaviour
     public static Global Instance;
 
     public bool minigameBeaten = false;
+    public Vector2 playerPosition = Vector2.zero;
+
+    public ChangeScene cambiarEscena = null;
 
     void Awake ()   
-       {
+    {
+        cambiarEscena = GetComponent<ChangeScene>();
         if (Instance == null)
         {
             DontDestroyOnLoad(gameObject);
@@ -26,6 +30,6 @@ public class Global : MonoBehaviour
             } 
             Destroy(gameObject);
         }
-      }
+    }
 
 }
