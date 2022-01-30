@@ -65,7 +65,6 @@ public class PlayerController : MonoBehaviour
                     break;
                 case "Casa":
                     currentTarget.GetComponent<AudioSource>().Play();
-                    GameObject.Find("BlackScreen").GetComponent<FadeToBlack>().activate = true;
                     canMove = false;
                     StartCoroutine(WaitForSong());
                     break;
