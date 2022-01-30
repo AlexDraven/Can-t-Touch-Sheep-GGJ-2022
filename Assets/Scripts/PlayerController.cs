@@ -9,8 +9,8 @@ public class PlayerController : MonoBehaviour
     float v;
     public float speed = 5f;
     Vector3 moveDirection;
-
-    [SerializeField] int health = 10;
+    public Rigidbody rb;
+    //[SerializeField] int health = 10;
 
     //camera and sight direction 
     [SerializeField] Camera camera;
