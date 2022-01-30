@@ -109,6 +109,7 @@ public class Global : MonoBehaviour
 
     private void ChangeBackgroundMusic()
     {
+        AudioClip oldCLip = backgroudMusic.clip;
         switch (actualSceneName)
         {
             case sceneName_Title:
@@ -133,6 +134,9 @@ public class Global : MonoBehaviour
                 backgroudMusic.clip = background_title;
                 break;
         }
-        backgroudMusic.Play();
+        if (oldCLip == backgroudMusic.clip)
+        {
+            backgroudMusic.Play();
+        }
     }
 }
