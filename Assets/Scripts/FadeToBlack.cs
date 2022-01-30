@@ -12,7 +12,7 @@ public class FadeToBlack : MonoBehaviour
     {
         if (activate && GetComponent<SpriteRenderer>().sharedMaterial.color.a == 1f)
         {
-            GetComponent<SpriteRenderer>().sharedMaterial.color = new Color(1,1,1, GetComponent<SpriteRenderer>().sharedMaterial.color.a + 0.01f);
+            GetComponent<SpriteRenderer>().sharedMaterial.color = new Color(1,1,1, GetComponent<SpriteRenderer>().sharedMaterial.color.a + 100f * Time.deltaTime);
         }
     }
 }

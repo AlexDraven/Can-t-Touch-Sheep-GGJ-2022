@@ -35,7 +35,7 @@ public class PlayerController : MonoBehaviour
         {
             ReadInput();
             rb.velocity =  Vector3.Normalize(new Vector3(h, v, 0)) * speed;
-        }    
+        } 
         //movimiento del personaje
         //   transform.position += moveDirection * Time.deltaTime * speed;
       //  rb.AddForce(new Vector2(h, v));
@@ -66,6 +66,7 @@ public class PlayerController : MonoBehaviour
                 case "Casa":
                     currentTarget.GetComponent<AudioSource>().Play();
                     GameObject.Find("BlackScreen").GetComponent<FadeToBlack>().activate = true;
+                    canMove = false;
                     StartCoroutine(WaitForSong());
                     break;
                 default:
