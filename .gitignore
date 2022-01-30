@@ -22,6 +22,10 @@
 # Visual Studio cache directory
 .vs/
 
+.vscode/
+
+Can-t-Touch-Sheep-GGJ-2022-Master/
+
 # Gradle cache directory
 .gradle/
 
