@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class ChangeScene : MonoBehaviour
 {
     [SerializeField] AudioSource buttonClip;
+       
 
     public void PlayGame()
     {
@@ -18,4 +19,16 @@ public class ChangeScene : MonoBehaviour
     {
         Application.Quit();
     }
+
+    //public void EntrarAlMiniJuego1()
+    //{
+    //    sheepController = FindObjectOfType<SheepController>();
+
+    //    if (sheepController.touchedTree)
+    //    {
+    //        Debug.Log("el arbol es verdadero?");
+
+    //        SceneManager.LoadScene("JuegoVerduras");
+    //    }
+    //}
 }

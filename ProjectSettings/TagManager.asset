@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Limite
-  - Tazon
+  - Sheep
+  - Tree
   layers:
   - Default
   - TransparentFX
@@ -45,4 +45,10 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 4096231595
+    locked: 0
+  - name: Sheep
+    uniqueID: 2107953019
+    locked: 0
+  - name: Tree
+    uniqueID: 72367281
     locked: 0

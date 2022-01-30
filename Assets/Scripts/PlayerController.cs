@@ -1,53 +1,61 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    //move player
-    float h;
-    float v;
-    public float speed = 5f;
-    Vector3 moveDirection;
-        
-    [SerializeField] int health = 10;
+    [SerializeField] bool touchedSheep = false;
+    [SerializeField] bool touchedHome = false;
+    public bool touchedTree = false;
 
-    //camera and sight direction 
-    [SerializeField] Camera camera;
-    Vector2 facingDirection; //hacia donde mira la mira
-    //CameraController camController;
+    [SerializeField] GameObject ActivarCarterJugar;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        ReadInput();
-
-        //movimiento del personaje
-        transform.position += moveDirection * Time.deltaTime * speed;
-
-        //ver el movimiento de la cara del personaje
-
-        //cuando presiona barra espaciadora, que hacer?
-        if(Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.E) && touchedTree)
         {
             //accion
             //Debug.Log("Presiono?");
+
+            SceneManager.LoadScene("JuegoVerduras");
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Sheep")
+        {
+            //Debug.Log("toque oveja?");
+
+            touchedSheep = true;
         }
 
+        if (collision.gameObject.tag == "Tree")
+        {
+            //Debug.Log("toque arbol?");
+
+            touchedTree = true;
+
+            //activa el carte!
+            ActivarCarterJugar.SetActive(true);
+        }
     }
 
-    void ReadInput()
-    {
-        h = Input.GetAxis("Horizontal");
-        v = Input.GetAxis("Vertical");
+    //void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if (collision.CompareTag("Tree"))
+    //    {
+    //        Debug.Log("toque arbol?");
 
-        moveDirection.x = h;
-        moveDirection.y = v;
-    }
+    //        touchedTree = true;
+    //    }
+    //}
 }
