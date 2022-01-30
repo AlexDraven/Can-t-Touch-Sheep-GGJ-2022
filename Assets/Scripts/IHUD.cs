@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class IHUD : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class IHUD : MonoBehaviour
     public float night, sheepMax, foodMax;
     public float dayTick, sheepTick, foodTick;
 
+    bool boolComer;
     //public GameObject advertenciaSheep;
     //public GameObject advertenciaFood;
 
@@ -16,6 +18,8 @@ public class IHUD : MonoBehaviour
     public Image dayUI;
     public Image sheepUI;
     public Image foodUI;
+
+    private ChangeScene scene;
 
     private void Start()
     {
@@ -26,6 +30,9 @@ public class IHUD : MonoBehaviour
         dayUI.fillAmount = day / night;
         sheepUI.fillAmount = sheep / sheepMax;
         foodUI.fillAmount = food / foodMax;
+
+        boolComer = false;
+        scene = FindObjectOfType<ChangeScene>();
     }
 
     void Update()
@@ -49,6 +56,8 @@ public class IHUD : MonoBehaviour
         if (food <= foodMax)
             food += Time.deltaTime / foodTick;
             foodUI.fillAmount = food / foodMax;
+
+        if (day >= 100 && boolComer == true) SceneManager.LoadScene("Final");
 
         ColorChanger();
         //SetAlert();

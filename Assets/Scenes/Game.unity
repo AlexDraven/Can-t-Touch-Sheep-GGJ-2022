@@ -10197,9 +10197,9 @@ MonoBehaviour:
   night: 100
   sheepMax: 100
   foodMax: 100
-  dayTick: 6
-  sheepTick: 6
-  foodTick: 6
+  dayTick: 1
+  sheepTick: 1
+  foodTick: 1
   dayUI: {fileID: 1981471226}
   sheepUI: {fileID: 1493856453}
   foodUI: {fileID: 674801801}

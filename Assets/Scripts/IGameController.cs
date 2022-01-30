@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class IGameController : MonoBehaviour
 {
@@ -9,6 +10,10 @@ public class IGameController : MonoBehaviour
     public Text TextVidas;
     public GameObject winText;
     public GameObject loseText;
+    public GameObject continuar;
+    public GameObject exit;
+
+    private bool boolVerduras;
 
     private int count;
     private int countVida;
@@ -21,6 +26,9 @@ public class IGameController : MonoBehaviour
         SetCountVidaText();
         winText.SetActive(false);
         loseText.SetActive(false);
+        exit.SetActive(false);
+        continuar.SetActive(false);
+        boolVerduras = false;
     }
 
     public void Punto()
@@ -37,6 +45,10 @@ public class IGameController : MonoBehaviour
         {
             winText.SetActive(true);
             Time.timeScale = 0;
+
+            continuar.SetActive(true);
+
+            boolVerduras = true;
         }
     }
     public void SetCountVidaText()
@@ -47,6 +59,8 @@ public class IGameController : MonoBehaviour
         {
             loseText.SetActive(true);
             Time.timeScale = 0;
+
+            exit.SetActive(true);
         }
     }
 
