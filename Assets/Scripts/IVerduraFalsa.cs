@@ -33,7 +33,7 @@ public class IVerduraFalsa : MonoBehaviour
             Destroy(this.gameObject);
             boolDestroy = true;
 
-            puntaje.Descontar();
+       //     puntaje.Descontar();
         }
     }
 

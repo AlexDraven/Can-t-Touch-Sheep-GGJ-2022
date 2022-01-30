@@ -6,9 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class IHUD : MonoBehaviour
 {
-    public float day, sheep, food;
-    public float night, sheepMax, foodMax;
-    public float dayTick, sheepTick, foodTick;
+    public float day; //, sheep, food;
+    public float night;//, sheepMax, foodMax;
+    public float dayTick;//, sheepTick, foodTick;
+    public string actualSceneName;
 
     bool boolComer;
     //public GameObject advertenciaSheep;
@@ -16,10 +17,18 @@ public class IHUD : MonoBehaviour
 
     //public Slider dayUI;
     public Image dayUI;
-    public Image sheepUI;
-    public Image foodUI;
+    //public Image sheepUI;
+    //public Image foodUI;
 
     private ChangeScene scene;
+
+    private const string sceneName_Title = "Title";
+    private const string sceneName_Final = "Final";
+    private const string sceneName_Game = "Game";
+    private const string sceneName_Ganaste = "Ganaste";
+    private const string sceneName_Perdiste = "Perdiste";
+    private const string sceneName_JuegoVerduras = "JuegoVerduras";
+
 
     private void Start()
     {
@@ -28,14 +37,46 @@ public class IHUD : MonoBehaviour
         //advertenciaFood.SetActive(false);
 
         dayUI.fillAmount = day / night;
-        sheepUI.fillAmount = sheep / sheepMax;
-        foodUI.fillAmount = food / foodMax;
+        //sheepUI.fillAmount = sheep / sheepMax;
+        //foodUI.fillAmount = food / foodMax;
 
         boolComer = false;
         scene = FindObjectOfType<ChangeScene>();
     }
 
     void Update()
+    {
+
+        CheckScene();
+
+
+    }
+
+    private void CheckScene()
+    {
+        Scene currentScene = SceneManager.GetActiveScene();
+        string sceneName = currentScene.name;
+        if (actualSceneName != sceneName)
+        {
+            actualSceneName = sceneName;
+            if(actualSceneName != sceneName_Game && actualSceneName != sceneName_JuegoVerduras)
+            {
+                day = 0;
+                dayUI.fillAmount = 0;
+            }
+        }
+        switch (sceneName)
+        {
+            case sceneName_Game:
+                DayAndNight();
+                break;
+            case sceneName_JuegoVerduras:
+                DayAndNight();
+                break;
+        }
+    }
+
+    private void DayAndNight()
     {
         if (night >= day)
         {
@@ -49,17 +90,29 @@ public class IHUD : MonoBehaviour
             advertencia.SetActive(true);
         }*/
 
-        if (sheep <= sheepMax)
-            sheep += Time.deltaTime / sheepTick;
-            sheepUI.fillAmount = sheep / sheepMax;
+        //if (sheep <= sheepMax)
+        //    sheep += Time.deltaTime / sheepTick;
+        //sheepUI.fillAmount = sheep / sheepMax;
 
-        if (food <= foodMax)
-            food += Time.deltaTime / foodTick;
-            foodUI.fillAmount = food / foodMax;
+        //if (food <= foodMax)
+        //    food += Time.deltaTime / foodTick;
+        //foodUI.fillAmount = food / foodMax;
 
-        if (day >= 100 && boolComer == true) SceneManager.LoadScene("Final");
+        if (day >= night)
+        {
+            if (boolComer == true)
+            {
 
-        ColorChanger();
+                SceneManager.LoadScene(sceneName_Final);
+            }
+            else
+            {
+                SceneManager.LoadScene(sceneName_Perdiste);
+            }
+
+        }
+
+        // ColorChanger();
         //SetAlert();
     }
 
@@ -69,10 +122,10 @@ public class IHUD : MonoBehaviour
         if (food >= 60) advertenciaFood.SetActive(true);
     }*/
 
-    public void ColorChanger()
-    {
-        if (sheep >= 80) sheepUI.color = Color.red;
+    //public void ColorChanger()
+    //{
+    //    if (sheep >= 80) sheepUI.color = Color.red;
 
-        if (food >= 80) foodUI.color = Color.red;
-    }
+    //    if (food >= 80) foodUI.color = Color.red;
+    //}
 }

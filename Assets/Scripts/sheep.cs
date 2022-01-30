@@ -6,11 +6,22 @@ public class sheep : MonoBehaviour
 {
 
     [SerializeField]
-    private AudioSource meee;
+    public AudioClip[] meees;
+    public AudioSource meee;
+
+
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
-            meee.Play();
+        {
+            if (!meee.isPlaying)
+            {
+                // Random Mee
+                int index = Random.Range(0, meees.Length);
+                meee.clip = meees[index];
+                meee.Play();
+            }
+        }
     }
 }

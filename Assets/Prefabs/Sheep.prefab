@@ -71,7 +71,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5604750185886253075}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -192,6 +192,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c3615ed351781c4693026a142f8ac65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  meees:
+  - {fileID: 8300000, guid: 173d8f4417c681b46b0b6d245af82c8c, type: 3}
+  - {fileID: 8300000, guid: 756d6a621caf6454b88addf7a5a2ff1e, type: 3}
+  - {fileID: 8300000, guid: 772f01ad159c6a14590b62cb39165911, type: 3}
+  - {fileID: 8300000, guid: 133b817aeb4ab6144a8d69f0f09df406, type: 3}
   meee: {fileID: 5604750185886253079}
 --- !u!212 &-4805165688906591074
 SpriteRenderer:
@@ -271,6 +276,7 @@ GameObject:
   - component: {fileID: 5604750186509931509}
   - component: {fileID: 5604750186509931508}
   - component: {fileID: 5604750186509931511}
+  - component: {fileID: 5794612945215639443}
   m_Layer: 0
   m_Name: SheepSprite
   m_TagString: Untagged
@@ -362,3 +368,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &5794612945215639443
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5604750186509931506}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 6.06, y: 4.03}
+  m_Direction: 1

@@ -6,27 +6,28 @@ using UnityEngine.SceneManagement;
 
 public class IGameController : MonoBehaviour
 {
+    public int maxVerduras = 5;
     public Text TextVerduras;
-    public Text TextVidas;
-    public GameObject winText;
-    public GameObject loseText;
-    public GameObject continuar;
-    public GameObject exit;
+    //public Text TextVidas;
+    //public GameObject winText;
+    //public GameObject loseText;
+    //public GameObject continuar;
+    //public GameObject exit;
     private int count;
-    private int countVida;
+    //private int countVida;
 
     private AudioSource audio;
 
     void Start()
     {
         count = 0; 
-        countVida = 3;
+     //   countVida = 3;
         SetCountText();
-        SetCountVidaText();
-        winText.SetActive(false);
-        loseText.SetActive(false);
-        exit.SetActive(false);
-        continuar.SetActive(false);
+     //   SetCountVidaText();
+        //winText.SetActive(false);
+        //loseText.SetActive(false);
+        //exit.SetActive(false);
+        //continuar.SetActive(false);
         audio = GetComponent<AudioSource>();
     }
 
@@ -37,39 +38,41 @@ public class IGameController : MonoBehaviour
         SetCountText();
     }
 
-    public void Descontar()
-    {
-        audio.Play();
-        countVida--;
-        SetCountVidaText();
-    }
+    //public void Descontar()
+    //{
+    //    audio.Play();
+    //    countVida--;
+    //    SetCountVidaText();
+    //}
 
     public void SetCountText()
     {
-        TextVerduras.text = ("Verduras: " + count.ToString() + " / 10");
+        TextVerduras.text = ("Verduras: " + count.ToString() + " / "+ maxVerduras);
 
-        if (count >= 10)
+        if (count >= maxVerduras)
         {
-            winText.SetActive(true);
+          //  winText.SetActive(true);
             Time.timeScale = 0;
 
             Global.Instance.minigameBeaten = true;
 
-            continuar.SetActive(true);
+            /// continuar.SetActive(true);
+
+            BackToGame();
         }
     }
-    public void SetCountVidaText()
-    {
-        TextVidas.text = ("Vidas: " + countVida.ToString());
+    //public void SetCountVidaText()
+    //{
+    //    TextVidas.text = ("Vidas: " + countVida.ToString());
 
-        if (countVida <= 0)
-        {
-            loseText.SetActive(true);
-            Time.timeScale = 0;
+    //    if (countVida <= 0)
+    //    {
+    //        loseText.SetActive(true);
+    //        Time.timeScale = 0;
 
-            exit.SetActive(true);
-        }
-    }
+    //        exit.SetActive(true);
+    //    }
+    //}
 
     public void BackToGame()
     {
