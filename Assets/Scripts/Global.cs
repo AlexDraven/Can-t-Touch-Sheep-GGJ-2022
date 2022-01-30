@@ -17,6 +17,13 @@ public class Global : MonoBehaviour
         }
         else if (Instance != this)
         {
+            AudioClip oldClip = Instance.GetComponent<AudioSource>().clip;
+            AudioClip newClip = GetComponent<AudioSource>().clip;
+            if (oldClip != newClip)
+            {
+               Instance.GetComponent<AudioSource>().clip = GetComponent<AudioSource>().clip;
+               Instance.GetComponent<AudioSource>().Play();
+            } 
             Destroy(gameObject);
         }
       }
