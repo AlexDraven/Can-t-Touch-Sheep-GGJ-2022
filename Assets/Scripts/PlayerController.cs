@@ -9,8 +9,8 @@ public class PlayerController : MonoBehaviour
     float v;
     public float speed = 5f;
     Vector3 moveDirection;
-
-    [SerializeField] int health = 10;
+    public Rigidbody2D rb;
+    //[SerializeField] int health = 10;
 
     //camera and sight direction 
     [SerializeField] Camera camera;
@@ -23,10 +23,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (Global.Instance.playerPosition != Vector2.zero)
-        {
-            transform.position = Global.Instance.playerPosition;
-        }
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -37,8 +34,12 @@ public class PlayerController : MonoBehaviour
         if (canMove) 
         {
             ReadInput();
-            transform.position += moveDirection * Time.deltaTime * speed;
-        }
+            rb.velocity =  Vector3.Normalize(new Vector3(h, v, 0)) * speed;
+        }    
+        //movimiento del personaje
+        //   transform.position += moveDirection * Time.deltaTime * speed;
+      //  rb.AddForce(new Vector2(h, v));
+      //   ReadInput();
 
         if (Input.GetKeyDown(KeyCode.Space))
         {

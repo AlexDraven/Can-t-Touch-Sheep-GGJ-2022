@@ -578,9 +578,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 194306236}
-        m_TargetAssemblyTypeName: IGameController, Assembly-CSharp
-        m_MethodName: BackToGame
+      - m_Target: {fileID: 194306237}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1694,6 +1694,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 6
+  currentTarget: {fileID: 0}
 --- !u!50 &1748321241
 Rigidbody2D:
   serializedVersion: 4
