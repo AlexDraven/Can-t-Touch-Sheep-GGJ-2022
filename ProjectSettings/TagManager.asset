@@ -8,6 +8,7 @@ TagManager:
   - Tazon
   - Interactable
   - Arbol
+  - Caldero
   layers:
   - Default
   - TransparentFX
