@@ -21,7 +21,10 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        if (Global.Instance.playerPosition != Vector2.zero)
+        {
+            transform.position = Global.Instance.playerPosition;
+        }
     }
 
     // Update is called once per frame
@@ -43,6 +46,7 @@ public class PlayerController : MonoBehaviour
             if (currentTarget.gameObject.tag == "Arbol")
             {
                 //Cambiar de escena
+                Global.Instance.playerPosition = transform.position;
                 Global.Instance.cambiarEscena.ChangeSceneTo("JuegoVerduras");
                 
             }
