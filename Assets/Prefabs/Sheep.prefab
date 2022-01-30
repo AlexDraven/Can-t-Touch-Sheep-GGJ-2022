@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 5604750185886253076}
   - component: {fileID: 5604750185886253077}
   - component: {fileID: 5604750185886253079}
+  - component: {fileID: 5835152401728213957}
+  - component: {fileID: -8071878727676913149}
   m_Layer: 0
   m_Name: Sheep
   m_TagString: Interactable
@@ -177,6 +179,34 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!58 &5835152401728213957
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5604750185886253075}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 2
+--- !u!114 &-8071878727676913149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5604750185886253075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3615ed351781c4693026a142f8ac65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5604750186509931506
 GameObject:
   m_ObjectHideFlags: 0
