@@ -11,6 +11,9 @@ public class IHUD : MonoBehaviour
     public float dayTick;//, sheepTick, foodTick;
     public string actualSceneName;
 
+    public Image dialogInicio;
+    public Image dialogEnding;
+
     bool boolComer;
     //public GameObject advertenciaSheep;
     //public GameObject advertenciaFood;
@@ -87,6 +90,23 @@ public class IHUD : MonoBehaviour
             day += Time.deltaTime / dayTick;
             dayUI.fillAmount = day / night;
             //dayUI.value = day;
+
+            float partial = day / night;
+            if (partial < 0.2)
+            {
+                dialogInicio.gameObject.SetActive(true);
+                dialogEnding.gameObject.SetActive(false);
+            }
+            else if( partial > 0.7)
+            {
+                dialogInicio.gameObject.SetActive(false);
+                dialogEnding.gameObject.SetActive(true);
+            }
+            else
+            {
+                dialogEnding.gameObject.SetActive(false);
+                dialogInicio.gameObject.SetActive(false);
+            }
         }
 
         /*if (day == 50)

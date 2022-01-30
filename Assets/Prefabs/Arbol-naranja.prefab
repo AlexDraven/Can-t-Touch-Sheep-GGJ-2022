@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1994640023987941244}
   - component: {fileID: 2635129905401396445}
   m_Layer: 0
-  m_Name: Arbol
+  m_Name: Arbol-naranja
   m_TagString: Arbol
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -144,7 +144,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 7993d76704604264eb13e2a11292ba04, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9f54bc733b67c284eb0e1a6e8e19248f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
