@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: -8071878727676913149}
   - component: {fileID: -4805165688906591074}
   - component: {fileID: 4363807347496374037}
+  - component: {fileID: 5847452248092729603}
   m_Layer: 0
   m_Name: Sheep
   m_TagString: Untagged
@@ -265,6 +266,25 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 6.6
+--- !u!95 &5847452248092729603
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5604750185886253075}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f940a7daf122e474d8cf437f871d48d1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &5604750186509931506
 GameObject:
   m_ObjectHideFlags: 0
