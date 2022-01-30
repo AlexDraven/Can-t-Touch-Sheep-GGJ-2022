@@ -65,15 +65,19 @@ public class IHUD : MonoBehaviour
                 dayUI.fillAmount = 0;
             }
         }
-        switch (sceneName)
+        if (!Global.Instance.enteredHouse)
         {
-            case sceneName_Game:
-                DayAndNight();
-                break;
-            case sceneName_JuegoVerduras:
-                DayAndNight();
-                break;
+            switch (sceneName)
+            {
+                case sceneName_Game:
+                    DayAndNight();
+                    break;
+                case sceneName_JuegoVerduras:
+                    DayAndNight();
+                    break;
+            }
         }
+
     }
 
     private void DayAndNight()

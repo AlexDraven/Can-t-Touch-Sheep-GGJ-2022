@@ -9,6 +9,7 @@ public class Global : MonoBehaviour
 
     public bool minigameBeaten = false;
     public bool soupEaten = false;
+    public bool enteredHouse = false;
     public Vector2 playerPosition = Vector2.zero;
 
 
