@@ -353,7 +353,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casa
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8729725151175977331, guid: b90b76f50da7b0a4c8e730778ca306b1, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: b90b76f50da7b0a4c8e730778ca306b1, type: 3}
 --- !u!4 &261395167 stripped
 Transform:
@@ -12123,6 +12124,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2262724197859526086, guid: 4055a9fe4fe1a3448b01927983ac89fb, type: 3}
+      propertyPath: background_juegoVerduras
+      value: 
+      objectReference: {fileID: 8300000, guid: 58f2febec5a20394c837ac081c391317, type: 3}
     - target: {fileID: 2262724197859526087, guid: 4055a9fe4fe1a3448b01927983ac89fb, type: 3}
       propertyPath: m_Name
       value: Global

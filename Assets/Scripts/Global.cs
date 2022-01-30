@@ -20,6 +20,7 @@ public class Global : MonoBehaviour
     public AudioClip background_ganaste;
     public AudioClip background_perdiste;
     public AudioClip background_juegoVerduras;
+    public AudioClip jingle_a_dormir;
     public AudioSource backgroudMusic;
 
     public ChangeScene cambiarEscena = null;

@@ -35,7 +35,11 @@ public class PlayerController : MonoBehaviour
         {
             ReadInput();
             rb.velocity =  Vector3.Normalize(new Vector3(moveDirection.x, moveDirection.y, 0)) * speed;
-        }    
+        } 
+        else
+        {
+            rb.velocity = Vector3.zero;
+        }
         //movimiento del personaje
         //   transform.position += moveDirection * Time.deltaTime * speed;
       //  rb.AddForce(new Vector2(h, v));
@@ -64,8 +68,10 @@ public class PlayerController : MonoBehaviour
                     }
                     break;
                 case "Casa":
-                    currentTarget.GetComponent<AudioSource>().Play();
+                    Global.Instance.backgroudMusic.clip = Global.Instance.jingle_a_dormir;
+                    Global.Instance.backgroudMusic.Play();
                     canMove = false;
+                    Global.Instance.enteredHouse = true;
                     StartCoroutine(WaitForSong());
                     break;
                 default:

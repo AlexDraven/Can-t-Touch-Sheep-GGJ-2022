@@ -809,13 +809,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minigameBeaten: 0
   soupEaten: 0
+  enteredHouse: 0
   playerPosition: {x: 0, y: 0}
   background_title: {fileID: 8300000, guid: f99e5effd7ae81446a9db2efd15dc68f, type: 3}
   background_final: {fileID: 8300000, guid: ed716f80c90d68c42a89b308f0b83569, type: 3}
   background_game: {fileID: 8300000, guid: 58f2febec5a20394c837ac081c391317, type: 3}
   background_ganaste: {fileID: 8300000, guid: ed716f80c90d68c42a89b308f0b83569, type: 3}
   background_perdiste: {fileID: 8300000, guid: d852ea7054bae55489ea99a2b4f263bb, type: 3}
-  background_juegoVerduras: {fileID: 8300000, guid: 7dfe69aeffcfc67429d2fc265e58ea3f, type: 3}
+  background_juegoVerduras: {fileID: 8300000, guid: 58f2febec5a20394c837ac081c391317, type: 3}
+  jingle_a_dormir: {fileID: 8300000, guid: 7dfe69aeffcfc67429d2fc265e58ea3f, type: 3}
   backgroudMusic: {fileID: 2262724197859526080}
   cambiarEscena: {fileID: 0}
   actualSceneName: 
