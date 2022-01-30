@@ -134,7 +134,7 @@ public class Global : MonoBehaviour
                 backgroudMusic.clip = background_title;
                 break;
         }
-        if (oldCLip == backgroudMusic.clip)
+        if (oldCLip != backgroudMusic.clip)
         {
             backgroudMusic.Play();
         }
