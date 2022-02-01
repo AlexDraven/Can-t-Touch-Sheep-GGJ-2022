@@ -19,6 +19,9 @@ public class PlayerController : MonoBehaviour
     GameObject currentTarget = null;
 
     bool canMove = true;
+    bool moveRight = true;
+    bool moveDown = true;
+    private Animator anim;
 
     public SpriteRenderer sprite;
     // Start is called before the first frame update
@@ -26,6 +29,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -37,14 +41,74 @@ public class PlayerController : MonoBehaviour
         {
             ReadInput();
             rb.velocity =  Vector3.Normalize(new Vector3(moveDirection.x, moveDirection.y, 0)) * speed;
+
+            //HORIZONTAL
+            //if (rb.velocity.x == 0 && rb.velocity.y == 0)
+            //{
+            //    anim.SetBool("isWalking", false);
+            //}
+            // else
+            //{
+            //    anim.SetBool("isWalking", true);
+            //}
+
+
+            //
+            if (rb.velocity.x == 0 && moveDirection.x > -0.1f && moveDirection.x < 0.1f)
+            {
+                anim.SetBool("isWalking", false);
+                anim.SetBool("isWalkingSide", false);
+            }
+            else
+            {
+                anim.SetBool("isWalking", true);
+                anim.SetBool("isWalkingSide", true);
+                anim.SetBool("isUp", false);
+                anim.SetBool("isDown", true);
+            }
+            Debug.Log(rb.velocity.x);
+            Debug.Log(moveDirection.x);
+            //
+
+
             if (moveDirection.x > 0)
             {
-                sprite.flipX = true;
-               
+                //sprite.flipX = true;
+                sprite.flipX = false;
+                anim.SetBool("isRight", true);
             }
             if (moveDirection.x < 0)
             {
-                sprite.flipX = false;
+                //sprite.flipX = false;
+                sprite.flipX = true;
+                anim.SetBool("isRight", true);
+            }
+
+
+            //
+            if (rb.velocity.y == 0)
+            {
+                anim.SetBool("isWalking", false);
+            }
+             else
+            {
+                anim.SetBool("isWalking", true);
+            }
+            //
+
+
+            //VERTICAL
+            if (rb.velocity.y > 0 || moveDirection.y > 0)
+            {
+                //sprite.flipX = true;
+               anim.SetBool("isUp", true);
+               anim.SetBool("isDown", false);
+            }
+            if (rb.velocity.y < 0 || moveDirection.y < 0)
+            {
+                //sprite.flipX = false;
+                anim.SetBool("isUp", false);
+                anim.SetBool("isDown", true);
             }
         } 
         else
