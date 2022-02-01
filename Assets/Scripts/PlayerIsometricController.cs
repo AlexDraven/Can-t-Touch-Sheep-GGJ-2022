@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class PlayerIsometricController : MonoBehaviour
 {
-    public Grid grid;
+    [SerializeField] private Grid grid;
+    [SerializeField] private Camera camera;
+    [SerializeField] private Rigidbody2D rb;
     [SerializeField] private float speed = 5f;
+
     private Vector3Int _targetCell;
     private Vector3 _targetPosition;
-
+    private bool canMove = true;
     private GameObject currentTarget = null;
 
-    public Rigidbody2D rigidbody2d;
 
     // Start is called before the first frame update
     void Start()
@@ -22,7 +24,8 @@ public class PlayerIsometricController : MonoBehaviour
         // snap to the current cell
         transform.position = grid.CellToWorld(_targetCell);
 
-        rigidbody2d = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
+
     }
 
     // Update is called once per frame
@@ -30,38 +33,15 @@ public class PlayerIsometricController : MonoBehaviour
     {
         ReadInput();
         MoveToward(_targetPosition);
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            if (currentTarget == null) return;
-
-            print(currentTarget.name);
-        }
-    }
-
-    private void OnCollisionEnter2D(Collision2D other) 
-    {
-        if (other.gameObject.tag == "Interactable") 
-        {
-            currentTarget = other.gameObject;
-        }  
-        
     }
 
 
-    private void OnCollisionExit2D(Collision2D other) 
-    {
-        if (other.gameObject.tag == "Interactable") 
-        {
-            currentTarget = null;
-        }  
-    }
     void ReadInput()
     {
         Vector3Int gridMovement = new Vector3Int();
         gridMovement.z = 0;
 
-        if(!MultipleKeysPressed()){
+        if(!MultipleKeysPressed() && canMove){
             if(Input.GetKey(KeyCode.W))
             {
                 gridMovement.x = 1;
@@ -82,7 +62,6 @@ public class PlayerIsometricController : MonoBehaviour
                 gridMovement.y = -1;
             }
         }
-        
 
         if(gridMovement != Vector3Int.zero)
         {
@@ -91,11 +70,49 @@ public class PlayerIsometricController : MonoBehaviour
         }else {
             _targetPosition = grid.CellToWorld(Vector3Int.zero);
         }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (currentTarget == null) return;
+            
+            Debug.Log(currentTarget.tag);
+
+            switch (currentTarget.gameObject.tag)
+            {
+                case "Arbol":
+                    //Cambiar de escena
+                    Global.Instance.playerPosition = transform.position;
+                    Global.Instance.cambiarEscena.ChangeSceneTo("JuegoVerduras");
+                    break;
+                case "Caldero":
+                    if (Global.Instance.minigameBeaten)
+                    {
+                        Debug.Log("comida");
+                        //Slurp sound
+                        currentTarget.GetComponent<AudioSource>().Play();
+                        Global.Instance.soupEaten = true;
+                    }
+                    break;
+                case "Casa":
+                    Global.Instance.backgroudMusic.clip = Global.Instance.jingle_a_dormir;
+                    Global.Instance.backgroudMusic.Play();
+                    canMove = false;
+                    Global.Instance.enteredHouse = true;
+                    StartCoroutine(WaitForSong());
+                    break;
+                default:
+                    Debug.Log(currentTarget.name);
+                    break;
+                
+            }
+            
+        }
     }
 
     private void MoveToward(Vector3 target)
     {
         // transform.position = Vector3.MoveToward(transform.position, target, moveSpeed * Time.deltaTime);
+        rb.MovePosition(transform.position + target * Time.deltaTime * speed);
         transform.position += target * Time.deltaTime * speed;
     }
 
@@ -166,5 +183,47 @@ public class PlayerIsometricController : MonoBehaviour
         }
 
         return false;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other) 
+    {
+        switch (other.gameObject.tag) 
+        {
+            case "Arbol":
+            case "Interactable":
+            case "Caldero":
+            case "Casa":
+                currentTarget = other.gameObject;
+                break;
+        }
+        
+    }
+
+    private void OnTriggerExit2D(Collider2D other) 
+    {
+        switch (other.gameObject.tag) 
+        {
+            case "Arbol":
+            case "Interactable":
+            case "Caldero":
+            case "Casa":
+                currentTarget = null;
+                break;
+        }
+    }
+
+    IEnumerator WaitForSong()
+    {
+        yield return new WaitForSeconds(8);
+
+        if (Global.Instance.soupEaten)
+        {
+            Global.Instance.cambiarEscena.ChangeSceneTo("Ganaste");
+        }
+        else
+        {
+            Global.Instance.cambiarEscena.ChangeSceneTo("Perdiste");
+        }
+
     }
 }
