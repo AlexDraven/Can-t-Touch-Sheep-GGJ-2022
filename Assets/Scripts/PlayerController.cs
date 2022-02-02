@@ -35,26 +35,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        //movimiento del personaje
-        if (canMove) 
-        {
-            ReadInput();
-            rb.velocity =  Vector3.Normalize(new Vector3(moveDirection.x, moveDirection.y, 0)) * speed;
-            if (moveDirection.x > 0)
-            {
-                sprite.flipX = true;
-               
-            }
-            if (moveDirection.x < 0)
-            {
-                sprite.flipX = false;
-            }
-        } 
-        else
-        {
-            rb.velocity = Vector3.zero;
-        }
         //movimiento del personaje
         //   transform.position += moveDirection * Time.deltaTime * speed;
       //  rb.AddForce(new Vector2(h, v));
@@ -97,6 +77,33 @@ public class PlayerController : MonoBehaviour
             
         }
 
+    }
+
+    void FixedUpdate()
+    {
+        //movimiento del personaje
+        if (canMove) 
+        {
+            ReadInput();
+            
+            if (moveDirection == Vector3.zero) rb.velocity = Vector3.zero; 
+            if (moveDirection.x > 0)
+            {
+                sprite.flipX = true;
+               
+            }
+            if (moveDirection.x < 0)
+            {
+                sprite.flipX = false;
+            }
+        } 
+        else
+        {
+            rb.velocity = Vector3.zero;
+        }
+
+        rb.MovePosition(rb.position + new Vector2(moveDirection.x,moveDirection.y) * Time.fixedDeltaTime * speed);
+        //=  Vector3.Normalize(moveDirection) * speed;
     }
 
     void ReadInput()
