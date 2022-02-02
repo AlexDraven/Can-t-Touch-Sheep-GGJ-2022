@@ -26,6 +26,10 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
+        if (Global.Instance.playerPosition != Vector2.zero)
+        {
+            transform.position = Global.Instance.playerPosition;
+        }
     }
 
     // Update is called once per frame
