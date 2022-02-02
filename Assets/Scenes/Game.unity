@@ -142314,6 +142314,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0998eb33e4bb33a42a35e26eaca64156, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -143463,8 +143467,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   grid: {fileID: 0}
+  camera: {fileID: 0}
+  rb: {fileID: 0}
   speed: 5
-  rigidbody2d: {fileID: 0}
 --- !u!58 &691063013
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -143560,6 +143565,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0998eb33e4bb33a42a35e26eaca64156, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -145524,6 +145533,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: f92ca01b100dac847b54fe06df5821f4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0998eb33e4bb33a42a35e26eaca64156, type: 3}
     - target: {fileID: 6983909070148396090, guid: f92ca01b100dac847b54fe06df5821f4, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -145742,6 +145755,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 252542069}
     m_Modifications:
+    - target: {fileID: 2635129905401396445, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0998eb33e4bb33a42a35e26eaca64156, type: 3}
     - target: {fileID: 6983909070148396090, guid: 8a9283a8e13a95941a59e4a68c654d24, type: 3}
       propertyPath: m_RootOrder
       value: 11
