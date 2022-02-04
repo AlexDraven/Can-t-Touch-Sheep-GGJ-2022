@@ -135,11 +135,12 @@ public class PlayerController : MonoBehaviour
                     Global.Instance.cambiarEscena.ChangeSceneTo("JuegoVerduras");
                     break;
                 case "Caldero":
-                    if (Global.Instance.minigameBeaten)
+                    if (Global.Instance.minigameBeaten && !Global.Instance.soupEaten)
                     {
                         print("comida");
                         //Slurp sound
                         currentTarget.GetComponent<AudioSource>().Play();
+                        Global.Instance.soupEaten = true;
                         var speedNow = speed;
                         speed = 0;
                         canMove = false;
@@ -147,7 +148,9 @@ public class PlayerController : MonoBehaviour
                     }
                     break;
                 case "Casa":
+                    if (Global.Instance.enteredHouse) return;
                     Global.Instance.backgroudMusic.clip = Global.Instance.jingle_a_dormir;
+                    Global.Instance.backgroudMusic.pitch = 1;
                     Global.Instance.backgroudMusic.Play();
                     speed = 0;
                     canMove = false;
@@ -232,8 +235,7 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator WaitForSoup(float speedNow)
     {
-        yield return new WaitForSeconds(3);
-        Global.Instance.soupEaten = true;
+        yield return new WaitForSeconds(1.5f);
         speed = speedNow;
         canMove = true;
     }

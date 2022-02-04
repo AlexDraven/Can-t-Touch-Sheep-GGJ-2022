@@ -80,8 +80,6 @@ public class Global : MonoBehaviour
             switch (sceneName)
             {
                 case sceneName_Game:
-                    canvas.SetActive(true);
-                    break;
                 case sceneName_JuegoVerduras:
                     canvas.SetActive(true);
                     break;
@@ -100,7 +98,7 @@ public class Global : MonoBehaviour
         float night = this.gameController.GetComponent<IHUD>().night;
         float toNight = day / night;
 
-        if(toNight > 0.7)
+        if(toNight > 0.7 && !enteredHouse)
         {
             backgroudMusic.pitch = 1 + toNight - 0.5f;
         }
