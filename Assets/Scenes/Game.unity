@@ -314,7 +314,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3234732368663520581, guid: f46f7e817b33e8d4d9c3cd09049349b6, type: 3}
       propertyPath: night
-      value: 15
+      value: 60
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f46f7e817b33e8d4d9c3cd09049349b6, type: 3}
@@ -143060,7 +143060,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5604750185886253079, guid: fb567146390805649943ba96004055a8, type: 3}
       propertyPath: m_Pitch
-      value: 1.43
+      value: 0.39
       objectReference: {fileID: 0}
     - target: {fileID: 5604750185886253079, guid: fb567146390805649943ba96004055a8, type: 3}
       propertyPath: Priority
