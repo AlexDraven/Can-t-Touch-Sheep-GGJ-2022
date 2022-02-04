@@ -33,7 +33,6 @@ public class PlayerController : MonoBehaviour
         {
             transform.position = Global.Instance.playerPosition;
         }
-    }
         anim = GetComponent<Animator>();
     }
 
@@ -78,13 +77,11 @@ public class PlayerController : MonoBehaviour
 
             if (moveDirection.x > 0)
             {
-                //sprite.flipX = true;
                 sprite.flipX = false;
                 anim.SetBool("isRight", true);
             }
             if (moveDirection.x < 0)
             {
-                //sprite.flipX = false;
                 sprite.flipX = true;
                 anim.SetBool("isRight", true);
             }
@@ -105,13 +102,11 @@ public class PlayerController : MonoBehaviour
             //VERTICAL
             if (rb.velocity.y > 0 || moveDirection.y > 0)
             {
-                //sprite.flipX = true;
                anim.SetBool("isUp", true);
                anim.SetBool("isDown", false);
             }
             if (rb.velocity.y < 0 || moveDirection.y < 0)
             {
-                //sprite.flipX = false;
                 anim.SetBool("isUp", false);
                 anim.SetBool("isDown", true);
             }
@@ -120,7 +115,8 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity = Vector3.zero;
         }
-        //movimiento del personaje
+
+        //movimiento del personaje old
         //   transform.position += moveDirection * Time.deltaTime * speed;
       //  rb.AddForce(new Vector2(h, v));
       //   ReadInput();
@@ -144,12 +140,16 @@ public class PlayerController : MonoBehaviour
                         print("comida");
                         //Slurp sound
                         currentTarget.GetComponent<AudioSource>().Play();
-                        Global.Instance.soupEaten = true;
+                        var speedNow = speed;
+                        speed = 0;
+                        canMove = false;
+                        StartCoroutine(WaitForSoup(speedNow));
                     }
                     break;
                 case "Casa":
                     Global.Instance.backgroudMusic.clip = Global.Instance.jingle_a_dormir;
                     Global.Instance.backgroudMusic.Play();
+                    speed = 0;
                     canMove = false;
                     Global.Instance.enteredHouse = true;
                     StartCoroutine(WaitForSong());
@@ -185,6 +185,8 @@ public class PlayerController : MonoBehaviour
         else
         {
             rb.velocity = Vector3.zero;
+            anim.SetBool("isWalking", false);
+            anim.SetBool("isWalkingSide", false);
         }
 
         rb.MovePosition(rb.position + new Vector2(moveDirection.x,moveDirection.y) * Time.fixedDeltaTime * speed);
@@ -228,10 +230,18 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    IEnumerator WaitForSoup(float speedNow)
+    {
+        yield return new WaitForSeconds(3);
+        Global.Instance.soupEaten = true;
+        speed = speedNow;
+        canMove = true;
+    }
+
     IEnumerator WaitForSong()
     {
         yield return new WaitForSeconds(8);
-
+        
         if (Global.Instance.soupEaten)
         {
             Global.Instance.cambiarEscena.ChangeSceneTo("Ganaste");

@@ -62,7 +62,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4, y: 1.25}
+  m_Size: {x: 4, y: 2}
   m_EdgeRadius: 0
 --- !u!50 &5604750185886253077
 Rigidbody2D:
@@ -401,6 +401,6 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -1.36}
-  m_Size: {x: 4.37, y: 1.79}
+  m_Offset: {x: 0, y: -1.5}
+  m_Size: {x: 5, y: 3.5}
   m_Direction: 1

@@ -1110,7 +1110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   day: 0
-  night: 45
+  night: 120
   dayTick: 1
   actualSceneName: 
   dialogInicio: {fileID: 3711771314627123498}
